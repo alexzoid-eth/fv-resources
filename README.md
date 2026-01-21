@@ -19,6 +19,8 @@ A curated list of resources for Formal Verification with Certora Prover (EVM/Ste
 
 ### Specifications
 
+- OpenZeppelin Contracts written in Rust for Stellar Soroban (Certora, constantly updated, [Certora/stellar-contracts/ownable](https://github.com/Certora/stellar-contracts/tree/certora/packages/access/src/ownable/specs), [Certora/stellar-contracts/access_control](https://github.com/Certora/stellar-contracts/tree/certora/packages/access/src/access_control/specs) and more)
+
 - Aquarius liquidity layer (alexzoid 🥈#2 place Certora competition, Jun 2025, [aquarius-cantina-fv/fees_collector](https://github.com/alexzoid-eth/aquarius-cantina-fv/tree/main/fees_collector/src/certora_specs))
 
 - Aquarius liquidity layer (top competition winners, Jun 2025, [aquarius-cantina-fv/Example_Submissions](https://github.com/Certora/aquarius-cantina-fv/tree/main/Example_Submissions))
@@ -26,6 +28,10 @@ A curated list of resources for Formal Verification with Certora Prover (EVM/Ste
 - Blend v2 liquidity protocol primitive (Certora, March 2025, [blend-contracts-v2/pool](https://github.com/Certora/blend-contracts-v2/tree/certora/pool/src/spec))
 
 - Blend v2 liquidity protocol primitive (alexzoid 🏆#1 place Certora competition, Feb 2025, [blend-contracts-v2/backstop](https://github.com/alexzoid-eth/2025-02-blend-fv/tree/main/blend-contracts-v2/backstop))
+
+- Blend v1 liquidity protocol primitive (Certora, Jan 2025, [blend-contracts/pool](https://github.com/Certora/blend-contracts/tree/certora/pool/src/spec))
+
+- Meridian Certora workshop, show you how to use Sunbeam on a simple example (Certora, Nov 2024, [Certora/meridian2024-workshop](https://github.com/Certora/meridian2024-workshop))
 
 ### Reports
 
