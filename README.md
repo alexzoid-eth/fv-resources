@@ -10,9 +10,11 @@ A curated list of resources for Formal Verification with Certora Prover (EVM/Ste
 
 ### Documentation
 
-- Official [documentation](https://docs.certora.com/en/latest/docs/sunbeam/index.html) for Certora Sunbeam (Soroban) Prover
+- [Official documentation](https://docs.certora.com/en/latest/docs/sunbeam/index.html) for Certora Sunbeam (Soroban) Prover
 
 ### Articles
+
+- [Formally Verifying WebAssembly](https://www.certora.com/blog/formally-verifying-webassembly) (Certora, Oct 2025)
 
 - Inside Certora’s First Soroban Contests (Certora, Sept 2025, [blog/bringing-formal-verification-to-rust](https://www.certora.com/blog/bringing-formal-verification-to-rust))
 
