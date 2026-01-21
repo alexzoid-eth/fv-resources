@@ -2,9 +2,7 @@
 
 A curated list of resources for Formal Verification with Certora Prover (EVM/Stellar/Solana). Please DM me if you'd like to update it.
 
-## ~~~~~~~~~~~~~~~~~ EVM (Ethereum Virtual Machine) 
-
-... in progress
+## ~~~~~~~~~~~~~~~~~ EVM ... in progress
 
 ### Documentation
 
