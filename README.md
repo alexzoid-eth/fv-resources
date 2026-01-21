@@ -19,6 +19,7 @@ A curated list of resources for Formal Verification with Certora Prover (EVM/Ste
 ### Documentation
 
 - [->](https://docs.certora.com/en/latest/docs/sunbeam/index.html) Official documentation for Certora Sunbeam (Soroban) Prover
+
 - [->](https://certora-sunbeam-tutorials.readthedocs-hosted.com/en/latest/) Tutorials for Certora Sunbeam – a tool for formal verification of Soroban smart contracts
 
 ### Articles
@@ -38,6 +39,8 @@ A curated list of resources for Formal Verification with Certora Prover (EVM/Ste
 - [->](https://www.youtube.com/watch?v=uoq5SmVKUE8) Verifying Smart Contract Properties with Certora's Sunbeam Tool | Meridian 2024 - Demo of Sunbeam on deployed Soroban contracts, with practical property checks. (Stellar Development Foundation, Nov 2024)
 
 - [->](https://www.youtube.com/watch?v=kn-mGCv0EFk) Sunbeam: Usable Formal Verification for Smart Contracts on Stellar - Talk by Mooly Sagiv on Sunbeam for Soroban, including usability and integration (Stellar Development Foundation, Nov 2024)
+
+- [->](https://www.youtube.com/watch?v=62tCJGBcvOY) Smart Contract Security Using Certora Prover with Chandrakana Nandi (Cyfrin Audits, Nov 2023)
 
 ### Specifications
 
@@ -70,6 +73,8 @@ A curated list of resources for Formal Verification with Certora Prover (EVM/Ste
 ### Articles
 
 - [->](https://www.certora.com/blog/securing-kamino-lending) Securing Kamino Lending - How Formal Verification Prevented Future Risks (Certora: Pamina Georgiou, Mar 2025)
+
+- [->](https://www.certora.com/blog/token-extensions-audit) Reviewing Token Extensions on Solana Using Formal Verification (Certora: Jorge Navas, Aug 2024)
 
 - [->](https://www.certora.com/blog/spl-extension) Solana Verification Part 3: Formal Verification of the Confidentiality Extension of SPL (Certora: Jorge Navas, Aug 2023)
 
