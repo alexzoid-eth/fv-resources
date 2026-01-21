@@ -21,6 +21,10 @@ A curated list of resources for Formal Verification with Certora Prover (EVM/Ste
 
 - Aquarius liquidity layer (alexzoid 🥈#2 place Certora competition, Jun 2025, [aquarius-cantina-fv/fees_collector](https://github.com/alexzoid-eth/aquarius-cantina-fv/tree/main/fees_collector/src/certora_specs))
 
+- Aquarius liquidity layer (top competition winners, Jun 2025, [aquarius-cantina-fv/Example_Submissions](https://github.com/Certora/aquarius-cantina-fv/tree/main/Example_Submissions))
+
+- Blend v2 liquidity protocol primitive (Certora, March 2025, [blend-contracts-v2/pool](https://github.com/Certora/blend-contracts-v2/tree/certora/pool/src/spec))
+
 - Blend v2 liquidity protocol primitive (alexzoid 🏆#1 place Certora competition, Feb 2025, [blend-contracts-v2/backstop](https://github.com/alexzoid-eth/2025-02-blend-fv/tree/main/blend-contracts-v2/backstop) and [2025_02_blend_v2_backstop_fv_report_alexzoid.pdf](https://github.com/alexzoid-eth/2025-02-blend-fv/blob/main/blend-contracts-v2/backstop/2025_02_blend_v2_backstop_fv_report_alexzoid.pdf))
 
 ### Reports
