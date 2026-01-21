@@ -2,13 +2,11 @@
 
 A curated list of resources for Formal Verification with Certora Prover (EVM/Stellar/Solana). Please DM me if you'd like to update it.
 
-## EVM (Ethereum Virtual Machine)
-
-... in progress
+## EVM (Ethereum Virtual Machine) ... in progress
 
 ### Documentation
 
-- 
+- [->](https://docs.certora.com/en/latest/docs/user-guide/install.html) Official documentation for Certora Prover
 
 ### Articles
 
@@ -17,14 +15,6 @@ A curated list of resources for Formal Verification with Certora Prover (EVM/Ste
 ### Videos
 
 - [->](https://www.youtube.com/watch?v=2tARWL61wCo) Why Formal Verification Matters: Fireside Chat with Certora CEO Mooly Sagiv (RareTalks, May 2025)
-
-### Specifications
-
-- 
-
-### Reports
-
-- 
 
 ## Stellar
 
@@ -100,6 +90,10 @@ A curated list of resources for Formal Verification with Certora Prover (EVM/Ste
 
 - [->](https://www.youtube.com/watch?v=j8BMKFQQPWY) Breakpoint 2025: Security Block: Certora (Pamina Georgiev) (Solana, Dec 2025)
 
+- [->](https://www.youtube.com/watch?v=tNmRscHydzE) Securing Solana programs with formal verification - LIVE from SOLANA Startup Village Toronto (Superteam Canada, May 2025)
+
+- [->](https://www.youtube.com/watch?v=qn3z4zRInLo) Securing Solana Protocols With Formal Verification | Arie Gurfinkel | Crossroads '25 (Solana Crossroads, May 2025)
+
 ### Specifications
 
 - [->](https://github.com/Certora/CertoraProver/tree/master/Public/TestSolana) Examples of specifications from lastest Prover's Public/TestSolana directory
@@ -121,3 +115,5 @@ A curated list of resources for Formal Verification with Certora Prover (EVM/Ste
 ### Tools 
 
 - [->](https://github.com/Certora/solana-spec-template) Template for Certora specifications for Solana projects (Certora, constantly updated)
+
+- [->](https://github.com/Certora/cvlr-solana) CVLR library for Solana (Certora, constantly updated)
