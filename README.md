@@ -2,7 +2,9 @@
 
 A curated list of resources for Formal Verification with Certora Prover (EVM/Stellar/Solana). Please DM me if you'd like to update it.
 
-## ~~~~~~~~~~~~~~~~~ EVM ... in progress
+## ~~~~~~~~~~~~ EVM 
+
+... in progress
 
 ### Documentation
 
@@ -18,13 +20,13 @@ A curated list of resources for Formal Verification with Certora Prover (EVM/Ste
 
 - [->](https://www.youtube.com/watch?v=2tARWL61wCo) Why Formal Verification Matters: Fireside Chat with Certora CEO Mooly Sagiv (RareTalks, May 2025)
 
-## ~~~~~~~~~~~~~~~~~ Stellar 
+## ~~~~~~~~~~~~ Stellar 
 
 ### Documentation
 
 - [->](https://docs.certora.com/en/latest/docs/sunbeam/index.html) Official documentation for Certora Sunbeam (Soroban) Prover
 
-- [->](https://certora-sunbeam-tutorials.readthedocs-hosted.com/en/latest/) Tutorials for Certora Sunbeam – a tool for formal verification of Soroban smart contracts
+- [->](https://certora-sunbeam-tutorials.readthedocs-hosted.com/en/latest/) Tutorials for Certora Sunbeam
 
 ### Articles
 
@@ -68,7 +70,7 @@ A curated list of resources for Formal Verification with Certora Prover (EVM/Ste
 
 - [->](https://github.com/Certora/SecurityReports/blob/main/Reports/2025/01_30_2025_Blend_V1-FV.pdf) Blend v1 (Certora, Feb 2025)
 
-## ~~~~~~~~~~~~~~~~~ Solana
+## ~~~~~~~~~~~~ Solana
 
 ### Documentation
 
