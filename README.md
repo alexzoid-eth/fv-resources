@@ -4,15 +4,27 @@ A curated list of resources for Formal Verification with Certora Prover (EVM/Ste
 
 ## EVM (Ethereum Virtual Machine)
 
+... in progress
+
 ### Documentation
+
+- 
 
 ### Articles
 
 - [->](https://www.certora.com/blog/white-paper) Certora Technology White Paper - Unveiling the Power and Limitations of Certora's Smart Contract Verification Technology (Certora: Chandrakana Nandi & Mooly Sagiv & Daniel Jackson, Feb 2025)
 
+### Videos
+
+- [->](https://www.youtube.com/watch?v=2tARWL61wCo) Why Formal Verification Matters: Fireside Chat with Certora CEO Mooly Sagiv (RareTalks, May 2025)
+
 ### Specifications
 
+- 
+
 ### Reports
+
+- 
 
 ## Stellar
 
@@ -81,6 +93,12 @@ A curated list of resources for Formal Verification with Certora Prover (EVM/Ste
 - [->](https://www.certora.com/blog/sol-token) Solana Verification Part 2: Formal Verification of SPL Token 2022 (Certora: Jorge Navas, Aug 2023)
 
 - [->](https://www.certora.com/blog/sol-formal-verification) Solana Verification Part 1: Formal Verification of Solana Smart Contracts (Certora: Jorge Navas, Aug 2023)
+
+### Videos
+
+- [->](https://www.youtube.com/watch?v=mFmKHbgUzHo) Mooly Sagiv: How Certora Secures Billions on Solana, Myths & AI Risks in 2026! (SolanaFloor, Dec 2025)
+
+- [->](https://www.youtube.com/watch?v=j8BMKFQQPWY) Breakpoint 2025: Security Block: Certora (Pamina Georgiev) (Solana, Dec 2025)
 
 ### Specifications
 
