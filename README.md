@@ -10,7 +10,7 @@ A curated list of resources for Formal Verification with Certora Prover (EVM/Ste
 
 ### Articles
 
-- [->](https://rasengansec.hashnode.dev/learning-certora-prover-part-1) [->](https://rasengansec.hashnode.dev/learning-certora-prover-part-2) [->](https://rasengansec.hashnode.dev/learning-cvl-language-part-3) [->](https://rasengansec.hashnode.dev/learning-cvl-language-part-4) Learning CVL Language in 4 parts (Lilian Cariou, March-Apr 2025)
+- [->](https://rasengansec.hashnode.dev/learning-certora-prover-part-1) [->](https://rasengansec.hashnode.dev/learning-certora-prover-part-2) [->](https://rasengansec.hashnode.dev/learning-cvl-language-part-3) [->](https://rasengansec.hashnode.dev/learning-cvl-language-part-4) Learning CVL Language in 4 parts (Certora: Lilian Cariou, March-Apr 2025)
 
 - [->](https://www.certora.com/blog/white-paper) Certora Technology White Paper - Unveiling the Power and Limitations of Certora's Smart Contract Verification Technology (Certora: Chandrakana Nandi & Mooly Sagiv & Daniel Jackson, Feb 2025)
 
