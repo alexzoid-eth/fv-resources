@@ -50,13 +50,13 @@ A curated list of resources for Formal Verification with Certora Prover (EVM/Ste
 
 - [->](https://github.com/Certora/stellar-contracts/tree/certora/packages/access/src/ownable/specs) OpenZeppelin Contracts: written in Rust for Stellar Soroban (Certora, constantly updated)
 
-- [->](https://github.com/alexzoid-eth/aquarius-cantina-fv/tree/main/fees_collector/src/certora_specs) Aquarius (Certora competition: alexzoid 🥈#2 place, Jun 2025)
+- [->](https://github.com/alexzoid-eth/aquarius-cantina-fv/tree/main/fees_collector/src/certora_specs) Aquarius (Certora competition: alexzoid #2 place, Jun 2025)
 
 - [->](https://github.com/Certora/aquarius-cantina-fv/tree/main/Example_Submissions) Aquarius (Certora competition: top winners, Jun 2025)
 
 - [->](https://github.com/Certora/blend-contracts-v2/tree/certora/pool/src/spec) Blend v2 (Certora, March 2025)
 
-- [->](https://github.com/alexzoid-eth/2025-02-blend-fv/tree/main/blend-contracts-v2/backstop) Blend v2 (Certora competition: alexzoid 🏆#1 place, Feb 2025)
+- [->](https://github.com/alexzoid-eth/2025-02-blend-fv/tree/main/blend-contracts-v2/backstop) Blend v2 (Certora competition: alexzoid #1 place, Feb 2025)
 
 - [->](https://github.com/Certora/blend-contracts/tree/certora/pool/src/spec) Blend v1 (Certora, Jan 2025)
 
