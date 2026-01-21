@@ -1,6 +1,6 @@
 # Certora Formal Verification Resources
 
-A curated collection of resources for Certora formal verification in blockchain ecosystems. Focus on tutorials, specifications, reports, and best practices.
+A curated list of resources for Formal Verification with Certora Prover (EVM/Stellar/Solana).
 
 ## EVM (Ethereum Virtual Machine)
 
