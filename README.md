@@ -20,6 +20,8 @@ A curated list of resources for Formal Verification with Certora Prover (EVM/Ste
 
 - [->](https://www.certora.com/blog/writing-verification-friendly-smart-contracts-in-rust) Writing Verification-friendly Smart Contracts in Rust (Certora: Chandrakana Nandi, Aug 2025)
 
+- [->](https://blog.positive.com/formal-methods-for-stellar-defi-verifying-lending-protocol-with-certora-sunbeam-prover-e860a192afac) Formal Methods for Stellar DeFi: Verifying Lending Protocol with Certora Sunbeam Prover (Kirill Ziborov, Aug 2025)
+
 ### Specifications
 
 - [->](https://github.com/Certora/stellar-contracts/tree/certora/packages/access/src/ownable/specs) OpenZeppelin Contracts: written in Rust for Stellar Soroban (Certora, constantly updated)
@@ -38,7 +40,7 @@ A curated list of resources for Formal Verification with Certora Prover (EVM/Ste
 
 ### Reports
 
-- [->](https://github.com/alexzoid-eth/2025-02-blend-fv/blob/main/blend-contracts-v2/backstop/2025_02_blend_v2_backstop_fv_report_alexzoid.pdf) Blend v2 (alexzoid, Feb 2025)
+- [->](https://github.com/alexzoid-eth/2025-02-blend-fv/blob/main/blend-contracts-v2/backstop/2025_02_blend_v2_backstop_fv_report_alexzoid.pdf) Blend v2 (Certora competition: alexzoid 🏆#1 place, Feb 2025)
 
 - [->](https://github.com/Certora/SecurityReports/blob/main/Reports/2025/01_30_2025_Blend_V1-FV.pdf) Blend v1 (Certora, Feb 2025)
 
