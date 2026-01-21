@@ -1,6 +1,6 @@
 # Certora Formal Verification Resources
 
-A curated list of resources for Formal Verification with Certora Prover (EVM/Stellar/Solana).
+A curated list of resources for Formal Verification with Certora Prover (EVM/Stellar/Solana). Please DM me if you'd like to update it.
 
 ## EVM (Ethereum Virtual Machine)
 
@@ -8,7 +8,24 @@ A curated list of resources for Formal Verification with Certora Prover (EVM/Ste
 
 ## Stellar
 
-... in progress
+### Documentation
+
+- Official [documentation](https://docs.certora.com/en/latest/docs/sunbeam/index.html) for Certora Sunbeam (Soroban) Prover
+
+### Articles
+
+- Inside Certora’s First Soroban Contests (Certora, Sept 2025, [blog/bringing-formal-verification-to-rust](https://www.certora.com/blog/bringing-formal-verification-to-rust))
+
+
+### Specifications
+
+- Aquarius liquidity layer (alexzoid 🥈#2 place Certora competition, Jun 2025, [aquarius-cantina-fv/fees_collector](https://github.com/alexzoid-eth/aquarius-cantina-fv/tree/main/fees_collector/src/certora_specs))
+
+- Blend v2 liquidity protocol primitive (alexzoid 🏆#1 place Certora competition, Feb 2025, [blend-contracts-v2/backstop](https://github.com/alexzoid-eth/2025-02-blend-fv/tree/main/blend-contracts-v2/backstop) and [2025_02_blend_v2_backstop_fv_report_alexzoid.pdf](https://github.com/alexzoid-eth/2025-02-blend-fv/blob/main/blend-contracts-v2/backstop/2025_02_blend_v2_backstop_fv_report_alexzoid.pdf))
+
+### Reports
+
+- 
 
 ## Solana
 
