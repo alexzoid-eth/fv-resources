@@ -25,11 +25,14 @@ A curated list of resources for Formal Verification with Certora Prover (EVM/Ste
 
 - Blend v2 liquidity protocol primitive (Certora, March 2025, [blend-contracts-v2/pool](https://github.com/Certora/blend-contracts-v2/tree/certora/pool/src/spec))
 
-- Blend v2 liquidity protocol primitive (alexzoid 🏆#1 place Certora competition, Feb 2025, [blend-contracts-v2/backstop](https://github.com/alexzoid-eth/2025-02-blend-fv/tree/main/blend-contracts-v2/backstop) and [2025_02_blend_v2_backstop_fv_report_alexzoid.pdf](https://github.com/alexzoid-eth/2025-02-blend-fv/blob/main/blend-contracts-v2/backstop/2025_02_blend_v2_backstop_fv_report_alexzoid.pdf))
+- Blend v2 liquidity protocol primitive (alexzoid 🏆#1 place Certora competition, Feb 2025, [blend-contracts-v2/backstop](https://github.com/alexzoid-eth/2025-02-blend-fv/tree/main/blend-contracts-v2/backstop))
 
 ### Reports
 
-- 
+- Blend v2 liquidity protocol primitive (alexzoid, Feb 2025, [2025_02_blend_v2_backstop_fv_report_alexzoid.pdf](https://github.com/alexzoid-eth/2025-02-blend-fv/blob/main/blend-contracts-v2/backstop/2025_02_blend_v2_backstop_fv_report_alexzoid.pdf))
+
+- Blend v1 liquidity protocol primitive (Certora, Feb 2025, [01_30_2025_Blend_V1-FV.pdf](https://github.com/Certora/SecurityReports/blob/main/Reports/2025/01_30_2025_Blend_V1-FV.pdf))
+
 
 ## Solana
 
@@ -55,13 +58,13 @@ A curated list of resources for Formal Verification with Certora Prover (EVM/Ste
 
 ### Reports
 
-- Deriverse DEX: formal verification (alexzoid/cyfrin, Nov 2025, [2025_11_deriverse_fv_report_cyfrin_alexzoid.pdf](https://github.com/alexzoid-eth/fv-track-record/blob/main/pdf/2025_11_deriverse_fv_report_cyfrin_alexzoid.pdf))
+- Deriverse DEX (alexzoid/cyfrin, Nov 2025, [2025_11_deriverse_fv_report_cyfrin_alexzoid.pdf](https://github.com/alexzoid-eth/fv-track-record/blob/main/pdf/2025_11_deriverse_fv_report_cyfrin_alexzoid.pdf))
 
-- Kamino’s LIMO (Liquidity Integration and Matching Order) Solana program implements a limit order protocol: audit & formal verification (Certora, Jul 2025, [07_28_2025_Kamino_LIMO.pdf](https://github.com/Certora/SecurityReports/blob/main/Reports/2025/07_28_2025_Kamino_LIMO.pdf))
+- Kamino’s LIMO (Liquidity Integration and Matching Order) Solana program implements a limit order protocol (Certora, Jul 2025, [07_28_2025_Kamino_LIMO.pdf](https://github.com/Certora/SecurityReports/blob/main/Reports/2025/07_28_2025_Kamino_LIMO.pdf))
 
-- Kamino Vault protocol for optimized borrowing, lending, and automated yield management: audit & formal verification (Certora, Jul 2025, [07_07_2025_Kamino_Vault.pdf](https://github.com/Certora/SecurityReports/blob/main/Reports/2025/07_07_2025_Kamino_Vault.pdf))
+- Kamino Vault protocol for optimized borrowing, lending, and automated yield management (Certora, Jul 2025, [07_07_2025_Kamino_Vault.pdf](https://github.com/Certora/SecurityReports/blob/main/Reports/2025/07_07_2025_Kamino_Vault.pdf))
 
-- Squads multi-signature wallet platform: audit & formal verification (Certora, Feb 2025, [02_15_2025_Squads-FV-MR.pdf](https://github.com/Certora/SecurityReports/blob/main/Reports/2025/02_15_2025_Squads-FV-MR.pdf))
+- Squads multi-signature wallet platform (Certora, Feb 2025, [02_15_2025_Squads-FV-MR.pdf](https://github.com/Certora/SecurityReports/blob/main/Reports/2025/02_15_2025_Squads-FV-MR.pdf))
 
 ### Tools 
 
