@@ -31,6 +31,14 @@ A curated list of resources for Formal Verification with Certora Prover (EVM/Ste
 
 - [->](https://blog.positive.com/formal-methods-for-stellar-defi-verifying-lending-protocol-with-certora-sunbeam-prover-e860a192afac) Formal Methods for Stellar DeFi: Verifying Lending Protocol with Certora Sunbeam Prover (Positive Web3 Security: Kirill Ziborov, Aug 2025)
 
+### Videos
+
+- [->](https://www.youtube.com/watch?v=Mcv8WCfyJKk) Formally Verifying Soroban Smart Contracts with Certora Sunbeam - High-level overview by Chandrakana Nandi, covering specs, CVLR, SMT solvers, and examples from Blend and Reflector protocols (Certora, May 2025)
+
+- [->](https://www.youtube.com/watch?v=uoq5SmVKUE8) Verifying Smart Contract Properties with Certora's Sunbeam Tool | Meridian 2024 - Demo of Sunbeam on deployed Soroban contracts, with practical property checks. (Stellar Development Foundation, Nov 2024)
+
+- [->](https://www.youtube.com/watch?v=kn-mGCv0EFk) Sunbeam: Usable Formal Verification for Smart Contracts on Stellar - Talk by Mooly Sagiv on Sunbeam for Soroban, including usability and integration (Stellar Development Foundation, Nov 2024)
+
 ### Specifications
 
 - [->](https://github.com/Certora/stellar-contracts/tree/certora/packages/access/src/ownable/specs) OpenZeppelin Contracts: written in Rust for Stellar Soroban (Certora, constantly updated)
