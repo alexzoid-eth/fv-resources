@@ -4,13 +4,22 @@ A curated list of resources for Formal Verification with Certora Prover (EVM/Ste
 
 ## EVM (Ethereum Virtual Machine)
 
-... in progress
+### Documentation
+
+### Articles
+
+- [->](https://www.certora.com/blog/white-paper) Certora Technology White Paper - Unveiling the Power and Limitations of Certora's Smart Contract Verification Technology (Certora: Chandrakana Nandi & Mooly Sagiv & Daniel Jackson, Feb 2025)
+
+### Specifications
+
+### Reports
 
 ## Stellar
 
 ### Documentation
 
 - [->](https://docs.certora.com/en/latest/docs/sunbeam/index.html) Official documentation for Certora Sunbeam (Soroban) Prover
+- [->](https://certora-sunbeam-tutorials.readthedocs-hosted.com/en/latest/) Tutorials for Certora Sunbeam – a tool for formal verification of Soroban smart contracts
 
 ### Articles
 
@@ -20,7 +29,7 @@ A curated list of resources for Formal Verification with Certora Prover (EVM/Ste
 
 - [->](https://www.certora.com/blog/writing-verification-friendly-smart-contracts-in-rust) Writing Verification-friendly Smart Contracts in Rust (Certora: Chandrakana Nandi, Aug 2025)
 
-- [->](https://blog.positive.com/formal-methods-for-stellar-defi-verifying-lending-protocol-with-certora-sunbeam-prover-e860a192afac) Formal Methods for Stellar DeFi: Verifying Lending Protocol with Certora Sunbeam Prover (Kirill Ziborov, Aug 2025)
+- [->](https://blog.positive.com/formal-methods-for-stellar-defi-verifying-lending-protocol-with-certora-sunbeam-prover-e860a192afac) Formal Methods for Stellar DeFi: Verifying Lending Protocol with Certora Sunbeam Prover (Positive Web3 Security: Kirill Ziborov, Aug 2025)
 
 ### Specifications
 
