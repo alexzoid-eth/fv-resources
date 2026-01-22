@@ -115,7 +115,7 @@ A curated list of resources for Formal Verification with Certora Prover (EVM/Ste
 - [->](https://github.com/Certora/SecurityReports/blob/main/Reports/2025/07_07_2025_Kamino_Vault.pdf) Kamino Vault protocol for optimized borrowing, lending, and automated yield management (Certora, Jul 2025)
 
 - [->](https://github.com/Certora/SecurityReports/blob/main/Reports/2025/02_15_2025_Squads-FV-MR.pdf) Squads multi-signature wallet platform (Certora, Feb 2025)
-<details><summary>📝 Personal notes</summary>You can download full sources from report URLs - an excellent example of Solana specification. Consider usage of relative compilation for prover support.</details>
+  <details><summary>📝</summary>You can download full sources from report URLs - an excellent example of Solana specification. Consider usage of relative compilation for prover support.</details>
 
 ### Tools 
 
