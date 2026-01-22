@@ -108,7 +108,7 @@ A curated list of resources for Formal Verification with Certora Prover (EVM/Ste
 
 ### Reports
 
-- [->](https://github.com/alexzoid-eth/fv-track-record/blob/main/pdf/2025_11_deriverse_fv_report_cyfrin_alexzoid.pdf) Deriverse DEX (Cyfrin: alexzoid, Nov 2025)
+- [->](https://github.com/alexzoid-eth/fv-track-record/blob/main/pdf/2025_11_deriverse_fv_report_cyfrin_alexzoid.pdf) Deriverse DEX (Cyfrin contractor: alexzoid, Nov 2025)
 
 - [->](https://github.com/Certora/SecurityReports/blob/main/Reports/2025/07_28_2025_Kamino_LIMO.pdf) Kamino’s LIMO (Liquidity Integration and Matching Order) Solana program implements a limit order protocol (Certora, Jul 2025)
 
