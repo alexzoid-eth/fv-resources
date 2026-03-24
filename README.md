@@ -25,7 +25,7 @@ A curated list of resources for Formal Verification with Certora Prover (EVM/Ste
 
 - [->](https://github.com/Certora/certora-run-action) GitHub Action for running Certora Prover (Certora, constantly updated)
 
-## ~~~~~~~~~~~~ Stellar 
+## ~~~~~~~~~~~~ Stellar (updated: March 2026)
 
 ### Documentation
 
@@ -83,7 +83,7 @@ A curated list of resources for Formal Verification with Certora Prover (EVM/Ste
 
 - [->](https://github.com/Certora/cvlr-soroban) CVLR for Soroban smart contracts (Certora, constantly updated)
 
-## ~~~~~~~~~~~~ Solana
+## ~~~~~~~~~~~~ Solana (updated: March 2026)
 
 ### Documentation
 
