@@ -21,6 +21,10 @@ A curated list of resources for Formal Verification with Certora Prover (EVM/Ste
 
 - [->](https://www.youtube.com/watch?v=2tARWL61wCo) Why Formal Verification Matters: Fireside Chat with Certora CEO Mooly Sagiv (RareTalks, May 2025)
 
+### Tools
+
+- [->](https://github.com/Certora/certora-run-action) GitHub Action for running Certora Prover (Certora, constantly updated)
+
 ## ~~~~~~~~~~~~ Stellar 
 
 ### Documentation
@@ -67,9 +71,17 @@ A curated list of resources for Formal Verification with Certora Prover (EVM/Ste
 
 ### Reports
 
+- [->](https://github.com/code-423n4/2025-02-blend-fv/blob/main/Report.md) Blend v2 FV Competition Report (Code4rena, Feb-March 2025)
+
+- [->](https://github.com/Certora/aquarius-cantina-fv/blob/main/Report.md) Aquarius FV Competition Report (Cantina, Jun 2025)
+
 - [->](https://github.com/alexzoid-eth/2025-02-blend-fv/blob/main/blend-contracts-v2/backstop/2025_02_blend_v2_backstop_fv_report_alexzoid.pdf) Blend v2 (Certora competition: alexzoid, Feb 2025)
 
 - [->](https://github.com/Certora/SecurityReports/blob/main/Reports/2025/01_30_2025_Blend_V1-FV.pdf) Blend v1 (Certora, Feb 2025)
+
+### Libraries
+
+- [->](https://github.com/Certora/cvlr-soroban) CVLR for Soroban smart contracts (Certora, constantly updated)
 
 ## ~~~~~~~~~~~~ Solana
 
@@ -117,8 +129,14 @@ A curated list of resources for Formal Verification with Certora Prover (EVM/Ste
 
 - [->](https://github.com/Certora/SecurityReports/blob/main/Reports/2025/02_15_2025_Squads-FV-MR.pdf) Squads multi-signature wallet platform (Certora, Feb 2025)
 
+### Libraries
+
+- [->](https://github.com/Certora/cvlr-solana) CVLR library for Solana (Certora, constantly updated)
+
 ### Tools 
 
 - [->](https://github.com/Certora/solana-spec-template) Template for Certora specifications for Solana projects (Certora, constantly updated)
 
-- [->](https://github.com/Certora/cvlr-solana) CVLR library for Solana (Certora, constantly updated)
+- [->](https://github.com/Certora/cargo-certora-sbf) Cargo subcommand for building Solana programs for Certora Prover (Certora, constantly updated)
+
+- [->](https://github.com/Certora/certora-solana-platform-tools) Certora Solana Platform Tools (Certora, constantly updated)
