@@ -5,21 +5,21 @@ Please DM me if you'd like to update it.
 
 ## Table of Contents
 
-- [General](#-general)
+- [General](#general)
   - [Articles](#articles)
   - [Videos](#videos)
   - [Tools](#tools)
-- [EVM](#-evm)
+- [EVM](#evm)
   - [Documentation](#documentation)
   - [Articles](#articles-1)
-- [Stellar](#-stellar)
+- [Stellar](#stellar)
   - [Documentation](#documentation-1)
   - [Articles](#articles-2)
   - [Videos](#videos-2)
   - [Specifications](#specifications)
   - [Reports](#reports)
   - [Libraries](#libraries)
-- [Solana](#-solana)
+- [Solana](#solana)
   - [Documentation](#documentation-2)
   - [Articles](#articles-3)
   - [Videos](#videos-3)
@@ -28,9 +28,11 @@ Please DM me if you'd like to update it.
   - [Libraries](#libraries-1)
   - [Tools](#tools-1)
 
----
+<p align="center">
+  <img src="https://www.certora.com/gradientlogo.png" height="50" alt="Certora">
+</p>
 
-## ◆ General
+## General
 
 ### Articles
 
@@ -50,9 +52,11 @@ Please DM me if you'd like to update it.
   CI/CD integration for automated Prover runs
   <sub>Certora, constantly updated</sub>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ethereum/ethereum-org-website/dev/public/images/assets/eth-diamond-purple.png" height="50" alt="Ethereum">
+</p>
 
-## ⟠ EVM
+## EVM
 
 > In progress — more resources coming soon
 
@@ -70,9 +74,11 @@ Please DM me if you'd like to update it.
   Hands-on walkthrough: CVL syntax, rules, invariants, hooks
   <sub>Certora: Lilian Cariou, Mar-Apr 2025</sub>
 
----
+<p align="center">
+  <img src="https://github.com/stellar/.github/raw/master/stellar-logo.png" height="50" alt="Stellar">
+</p>
 
-## ✦ Stellar
+## Stellar
 `updated: March 2026`
 
 ### Documentation
@@ -173,9 +179,11 @@ Please DM me if you'd like to update it.
   Rust library for writing verification specs on Soroban
   <sub>Certora, constantly updated</sub>
 
----
+<p align="center">
+  <img src="https://solana.com/src/img/branding/solanaLogoMark.svg" height="50" alt="Solana">
+</p>
 
-## ◎ Solana
+## Solana
 `updated: March 2026`
 
 ### Documentation
