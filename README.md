@@ -35,7 +35,7 @@ Please DM me if you'd like to update it.
 ### Documentation
 
 - ![certora][certora] [Official documentation for Certora Prover](https://docs.certora.com/en/latest/docs/user-guide/install.html)
-- [Book of Formal Verification with Certora Prover](https://rareskills.io/tutorials/certora-book) — RareSkills
+- ![rareskills][rareskills] [Book of Formal Verification with Certora Prover](https://rareskills.io/tutorials/certora-book) — RareSkills
 
 ### Articles
 
@@ -65,7 +65,7 @@ Please DM me if you'd like to update it.
 - ![certora][certora] [Formally Verifying WebAssembly — A Soroban Case Study](https://www.certora.com/blog/formally-verifying-webassembly) — Certora: Chandrakana Nandi, Oct 2025
 - ![certora][certora] [Inside Certora's First Soroban Contests — Bringing Formal Verification to Rust](https://www.certora.com/blog/bringing-formal-verification-to-rust) — Certora: Shane Runquist & Chandrakana Nandi, Sept 2025
 - ![certora][certora] [Writing Verification-friendly Smart Contracts in Rust](https://www.certora.com/blog/writing-verification-friendly-smart-contracts-in-rust) — Certora: Chandrakana Nandi, Aug 2025
-- [Formal Methods for Stellar DeFi: Verifying Lending Protocol with Certora Sunbeam Prover](https://blog.positive.com/formal-methods-for-stellar-defi-verifying-lending-protocol-with-certora-sunbeam-prover-e860a192afac) — Positive Web3 Security: Kirill Ziborov, Aug 2025
+- ![positive][positive] [Formal Methods for Stellar DeFi: Verifying Lending Protocol with Certora Sunbeam Prover](https://blog.positive.com/formal-methods-for-stellar-defi-verifying-lending-protocol-with-certora-sunbeam-prover-e860a192afac) — Positive Web3 Security: Kirill Ziborov, Aug 2025
 
 ### Videos
 
@@ -147,3 +147,5 @@ Please DM me if you'd like to update it.
 [pdf]: https://img.shields.io/badge/-PDF-EC1C24?style=flat-square
 [yt]: https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white
 [certora]: https://img.shields.io/badge/-Certora-2CB67D?style=flat-square
+[rareskills]: https://img.shields.io/badge/-RareSkills-7c3aed?style=flat-square
+[positive]: https://img.shields.io/badge/-Positive-FC3E24?style=flat-square
