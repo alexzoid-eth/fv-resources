@@ -1,32 +1,8 @@
 # Certora Formal Verification Resources
 
-A curated list of resources for Formal Verification with Certora Prover (EVM / Stellar / Solana).
-Please DM me if you'd like to update it.
+A curated list of resources for Formal Verification with Certora Prover. Please DM me if you'd like to update it.
 
-## Table of Contents
-
-- [General](#general)
-  - [Articles](#articles)
-  - [Videos](#videos)
-  - [Tools](#tools)
-- [EVM](#evm)
-  - [Documentation](#documentation)
-  - [Articles](#articles-1)
-- [Stellar](#stellar)
-  - [Documentation](#documentation-1)
-  - [Articles](#articles-2)
-  - [Videos](#videos-2)
-  - [Specifications](#specifications)
-  - [Reports](#reports)
-  - [Libraries](#libraries)
-- [Solana](#solana)
-  - [Documentation](#documentation-2)
-  - [Articles](#articles-3)
-  - [Videos](#videos-3)
-  - [Specifications](#specifications-1)
-  - [Reports](#reports-1)
-  - [Libraries](#libraries-1)
-  - [Tools](#tools-1)
+[General ↓](#general) · [EVM ↓](#evm) · [Stellar ↓](#stellar) · [Solana ↓](#solana)
 
 <img src="https://www.certora.com/gradientlogo.png" height="50" alt="Certora">
 
