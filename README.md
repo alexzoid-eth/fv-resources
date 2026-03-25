@@ -45,10 +45,6 @@ A curated list of resources for Formal Verification with Certora Prover. Please 
 
 ### Videos
 
-- ![yt][yt] [Formal Verification of Uniswap v4 Hooks](https://www.youtube.com/watch?v=6TqMiOdHKhA)
-  FV approach to Uniswap v4 hook verification
-  <sub>DeFi Security Summit, Nov 2025</sub>
-
 - ![yt][yt] [Why Formal Verification Matters: Fireside Chat with Certora CEO Mooly Sagiv](https://www.youtube.com/watch?v=2tARWL61wCo)
   FV role in smart contract security, Certora vision
   <sub>RareTalks, May 2025</sub>
@@ -137,6 +133,12 @@ A curated list of resources for Formal Verification with Certora Prover. Please 
 - <img src="assets/morpho.png" height="20"> [Formally Verifying Morpho Blue with Certora](https://paragraph.com/@morpho/formally-verifying-morpho-blue-with-certora) ([GitHub](https://github.com/morpho-org/morpho-blue))
   FV methodology and findings for Morpho Blue
   <sub>Morpho, Nov 2023</sub>
+
+### Videos
+
+- ![yt][yt] [Formal Verification of Uniswap v4 Hooks](https://www.youtube.com/watch?v=6TqMiOdHKhA)
+  FV approach to Uniswap v4 hook verification
+  <sub>DeFi Security Summit, Nov 2025</sub>
 
 ### Works
 
