@@ -30,7 +30,7 @@ Please DM me if you'd like to update it.
 
 <img src="https://www.certora.com/gradientlogo.png" height="50" alt="Certora">
 
-## General
+### General
 
 ### Articles
 
@@ -54,7 +54,7 @@ Please DM me if you'd like to update it.
 
 <img src="https://raw.githubusercontent.com/ethereum/ethereum-org-website/dev/public/images/assets/eth-diamond-purple.png" height="50" alt="Ethereum">
 
-## EVM
+### EVM
 
 > In progress — more resources coming soon
 
@@ -76,7 +76,7 @@ Please DM me if you'd like to update it.
 
 <img src="https://github.com/stellar/.github/raw/master/stellar-logo.png" height="50" alt="Stellar">
 
-## Stellar
+### Stellar
 `updated: March 2026`
 
 ### Documentation
@@ -181,7 +181,7 @@ Please DM me if you'd like to update it.
 
 <img src="https://solana.com/src/img/branding/solanaLogoMark.svg" height="50" alt="Solana">
 
-## Solana
+### Solana
 `updated: March 2026`
 
 ### Documentation
