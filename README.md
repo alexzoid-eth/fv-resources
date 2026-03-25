@@ -258,9 +258,9 @@ A curated list of resources for Formal Verification with Certora Prover. Please 
   <sub>Certora, constantly updated</sub>
 
 <!-- Badge references -->
-[gh]: https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white
-[pdf]: https://img.shields.io/badge/-PDF-EC1C24?style=flat-square
-[yt]: https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white
-[certora]: https://img.shields.io/badge/-Certora-2CB67D?style=flat-square
-[rareskills]: https://img.shields.io/badge/-RareSkills-7c3aed?style=flat-square
-[positive]: https://img.shields.io/badge/-Positive-FC3E24?style=flat-square
+[gh]: https://img.shields.io/badge/%20-181717?style=flat-square&logo=github&logoColor=white
+[pdf]: https://img.shields.io/badge/%20-EC1C24?style=flat-square
+[yt]: https://img.shields.io/badge/%20-FF0000?style=flat-square&logo=youtube&logoColor=white
+[certora]: https://img.shields.io/badge/%20-2CB67D?style=flat-square
+[rareskills]: https://img.shields.io/badge/%20-7c3aed?style=flat-square
+[positive]: https://img.shields.io/badge/%20-FC3E24?style=flat-square
