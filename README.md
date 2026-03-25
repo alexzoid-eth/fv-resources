@@ -259,5 +259,5 @@ A curated list of resources for Formal Verification with Certora Prover. Please 
 
 <!-- Badge references -->
 [gh]: https://img.shields.io/badge/%20-181717?style=flat-square&logo=github&logoColor=white
-[pdf]: https://img.shields.io/badge/%20-EC1C24?style=flat-square
+[pdf]: https://img.shields.io/badge/PDF-EC1C24?style=flat-square
 [yt]: https://img.shields.io/badge/%20-FF0000?style=flat-square&logo=youtube&logoColor=white
