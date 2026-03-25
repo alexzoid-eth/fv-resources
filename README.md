@@ -8,10 +8,10 @@ Please DM me if you'd like to update it.
 - [General](#-general)
   - [Articles](#articles)
   - [Videos](#videos)
+  - [Tools](#tools)
 - [EVM](#-evm)
   - [Documentation](#documentation)
   - [Articles](#articles-1)
-  - [Tools](#tools)
 - [Stellar](#-stellar)
   - [Documentation](#documentation-1)
   - [Articles](#articles-2)
@@ -44,6 +44,12 @@ Please DM me if you'd like to update it.
   FV role in smart contract security, Certora vision
   <sub>RareTalks, May 2025</sub>
 
+### Tools
+
+- ![gh][gh] [GitHub Action for running Certora Prover](https://github.com/Certora/certora-run-action)
+  CI/CD integration for automated Prover runs
+  <sub>Certora, constantly updated</sub>
+
 ---
 
 ## ⟠ EVM
@@ -63,12 +69,6 @@ Please DM me if you'd like to update it.
 - [Learning CVL Language](https://rasengansec.hashnode.dev/learning-certora-prover-part-1) ([Part 2](https://rasengansec.hashnode.dev/learning-certora-prover-part-2), [Part 3](https://rasengansec.hashnode.dev/learning-cvl-language-part-3), [Part 4](https://rasengansec.hashnode.dev/learning-cvl-language-part-4))
   Hands-on walkthrough: CVL syntax, rules, invariants, hooks
   <sub>Certora: Lilian Cariou, Mar-Apr 2025</sub>
-
-### Tools
-
-- ![gh][gh] [GitHub Action for running Certora Prover](https://github.com/Certora/certora-run-action)
-  CI/CD integration for automated Prover runs
-  <sub>Certora, constantly updated</sub>
 
 ---
 
