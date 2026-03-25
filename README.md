@@ -23,11 +23,11 @@ A curated list of resources for Formal Verification with Certora Prover. Please 
   How the Prover works, its capabilities and limitations
   <sub>Chandrakana Nandi, Mooly Sagiv & Daniel Jackson, Feb 2025</sub>
 
-- [Formal Verification in Solidity and Move: Comparative Analysis](https://arxiv.org/abs/2502.13929)
+- <img src="assets/arxiv.png" height="20"> [Formal Verification in Solidity and Move: Comparative Analysis](https://arxiv.org/abs/2502.13929)
   Comparative analysis using Certora and Move Prover; open dataset
   <sub>Enrico Lipparini et al., Feb 2025</sub>
 
-- [PropertyGPT: LLM-driven Formal Verification of Smart Contracts](https://arxiv.org/abs/2405.02580)
+- <img src="assets/arxiv.png" height="20"> [PropertyGPT: LLM-driven Formal Verification of Smart Contracts](https://arxiv.org/abs/2405.02580)
   Uses 61 Certora audit reports as knowledge base for automated property generation
   <sub>May 2024</sub>
 
@@ -35,7 +35,7 @@ A curated list of resources for Formal Verification with Certora Prover. Please 
   Why FV catches bugs that testing and audits miss
   <sub>Armen Ter-Avetisyan, Apr 2024</sub>
 
-- [Trust but Verify: Scaling Deductive Verification with Abstract Interpretation](https://popl24.sigplan.org/details/N40AI-2024-papers/8/Trust-but-Verify-Scaling-Deductive-Verification-with-Abstract-Interpretation)
+- <img src="assets/sigplan.png" height="20"> [Trust but Verify: Scaling Deductive Verification with Abstract Interpretation](https://popl24.sigplan.org/details/N40AI-2024-papers/8/Trust-but-Verify-Scaling-Deductive-Verification-with-Abstract-Interpretation)
   Certora's pointer analysis for EVM bytecode (POPL 2024)
   <sub>Mooly Sagiv, Jan 2024</sub>
 
