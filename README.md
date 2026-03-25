@@ -28,9 +28,7 @@ Please DM me if you'd like to update it.
   - [Libraries](#libraries-1)
   - [Tools](#tools-1)
 
-<p align="center">
-  <img src="https://www.certora.com/gradientlogo.png" height="50" alt="Certora">
-</p>
+<img src="https://www.certora.com/gradientlogo.png" height="50" alt="Certora">
 
 ## General
 
@@ -52,9 +50,9 @@ Please DM me if you'd like to update it.
   CI/CD integration for automated Prover runs
   <sub>Certora, constantly updated</sub>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ethereum/ethereum-org-website/dev/public/images/assets/eth-diamond-purple.png" height="50" alt="Ethereum">
-</p>
+---
+
+<img src="https://raw.githubusercontent.com/ethereum/ethereum-org-website/dev/public/images/assets/eth-diamond-purple.png" height="50" alt="Ethereum">
 
 ## EVM
 
@@ -74,9 +72,9 @@ Please DM me if you'd like to update it.
   Hands-on walkthrough: CVL syntax, rules, invariants, hooks
   <sub>Certora: Lilian Cariou, Mar-Apr 2025</sub>
 
-<p align="center">
-  <img src="https://github.com/stellar/.github/raw/master/stellar-logo.png" height="50" alt="Stellar">
-</p>
+---
+
+<img src="https://github.com/stellar/.github/raw/master/stellar-logo.png" height="50" alt="Stellar">
 
 ## Stellar
 `updated: March 2026`
@@ -179,9 +177,9 @@ Please DM me if you'd like to update it.
   Rust library for writing verification specs on Soroban
   <sub>Certora, constantly updated</sub>
 
-<p align="center">
-  <img src="https://solana.com/src/img/branding/solanaLogoMark.svg" height="50" alt="Solana">
-</p>
+---
+
+<img src="https://solana.com/src/img/branding/solanaLogoMark.svg" height="50" alt="Solana">
 
 ## Solana
 `updated: March 2026`
