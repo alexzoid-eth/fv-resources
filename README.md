@@ -254,11 +254,8 @@ A curated list of resources for Formal Verification with Certora Prover. Please 
 - <img src="assets/certora.png" height="20"> [Official documentation for Certora Sunbeam (Soroban) Prover](https://docs.certora.com/en/latest/docs/sunbeam/index.html)
   Setup, CVLR language, Soroban verification guide
 
-- <img src="assets/certora.png" height="20"> [Tutorials for Certora Sunbeam](https://certora-sunbeam-tutorials.readthedocs-hosted.com/en/latest/)
-  Hands-on examples for Soroban contract verification
-
-- ![gh][gh] [Sunbeam Tutorials — source code](https://github.com/Certora/sunbeam-tutorials)
-  Tutorial projects and example specs for Soroban verification
+- <img src="assets/certora.png" height="20"> [Tutorials for Certora Sunbeam](https://certora-sunbeam-tutorials.readthedocs-hosted.com/en/latest/) ([GitHub](https://github.com/Certora/sunbeam-tutorials))
+  Hands-on examples and source code for Soroban verification
   <sub>Certora, Nov 2025</sub>
 
 - <img src="assets/certora.png" height="20"> [Formally Verifying WebAssembly — A Soroban Case Study](https://www.certora.com/blog/formally-verifying-webassembly)
