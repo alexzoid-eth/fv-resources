@@ -53,14 +53,17 @@ A curated list of resources for Formal Verification with Certora Prover. Please 
 
 ### Docs
 
-- <img src="assets/certora.png" height="20"> [Official documentation for Certora Prover](https://docs.certora.com/en/latest/docs/user-guide/install.html)
+- <img src="assets/certora.png" height="20"> [Official documentation for Certora Prover](https://docs.certora.com/en/latest/docs/user-guide/install.html) ([GitHub](https://github.com/Certora/Documentation))
   Setup, configuration, CVL language reference and examples
 
 - <img src="assets/certora.png" height="20"> [CVL Language Reference](https://docs.certora.com/en/latest/docs/cvl/index.html)
   Complete CVL specification language reference
 
-- <img src="assets/certora.png" height="20"> [Certora Prover Tutorials](https://docs.certora.com/projects/tutorials)
+- <img src="assets/certora.png" height="20"> [Certora Prover Tutorials](https://docs.certora.com/projects/tutorials) ([GitHub](https://github.com/Certora/tutorials-code))
   Step-by-step tutorials for learning CVL and the Prover
+
+- <img src="assets/certora.png" height="20"> [Foundry Integration](https://docs.certora.com/en/latest/docs/cvl/foundry-integration.html)
+  Using Foundry tests as Certora Prover specifications
 
 - <img src="assets/rareskills.svg" height="20"> [Book of Formal Verification with Certora Prover](https://rareskills.io/tutorials/certora-book)
   Comprehensive CVL guide from basics to advanced patterns
@@ -220,6 +223,9 @@ A curated list of resources for Formal Verification with Certora Prover. Please 
   Integrated liquidity market FV report
   <sub>Certora, Apr 2024</sub>
 
+- [Formally Verifying Morpho Blue with Certora](https://paragraph.com/@morpho/formally-verifying-morpho-blue-with-certora)
+  FV methodology and findings for Morpho Blue
+  <sub>Morpho, Nov 2023</sub>
 - ![gh][gh] [Morpho Blue](https://github.com/morpho-org/morpho-blue)
   Lending protocol with CVL specs
   <sub>Morpho, Feb 2026</sub>
@@ -248,6 +254,9 @@ A curated list of resources for Formal Verification with Certora Prover. Please 
 
 ### Libs & Tools
 
+- <img src="assets/certora.png" height="20"> [Equivalence Checking](https://docs.certora.com/en/latest/docs/equiv-check/index.html) ([GitHub](https://github.com/Certora/CertoraProver/tree/master/scripts/EquivalenceCheck))
+  Automated equivalence checking between contract versions
+
 - ![gh][gh] [AI Composer](https://github.com/Certora/AIComposer)
   AI-powered generation of verified implementations from docs and CVL specs
   <sub>Certora, Mar 2026</sub>
@@ -256,7 +265,7 @@ A curated list of resources for Formal Verification with Certora Prover. Please 
   Boilerplate for new EVM FV projects
   <sub>Certora, Feb 2025</sub>
 
-- ![gh][gh] [Gambit — Mutant Generation for Solidity](https://github.com/Certora/gambit)
+- <img src="assets/certora.png" height="20"> [Gambit — Mutant Generation for Solidity](https://docs.certora.com/en/latest/docs/gambit/index.html) ([GitHub](https://github.com/Certora/gambit))
   Mutation testing to evaluate quality of test suites and FV specs
   <sub>Certora, May 2025</sub>
 
