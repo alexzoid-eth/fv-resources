@@ -49,6 +49,14 @@ A curated list of resources for Formal Verification with Certora Prover. Please 
   FV role in smart contract security, Certora vision
   <sub>RareTalks, May 2025</sub>
 
+- ![yt][yt] [What is Certora and Formal Verification — Simply Explained](https://www.youtube.com/watch?v=8ON0Vpo7zls)
+  Beginner-friendly introduction to Certora and FV
+  <sub>JohnnyTime, Aug 2023</sub>
+
+- ![yt][yt] [Getting a Full-Time Web3 Security Researcher Job at Certora](https://www.youtube.com/watch?v=tjdE3vzp4BA)
+  Career path into FV and smart contract security
+  <sub>JohnnyTime, Jul 2023</sub>
+
 ### Works
 
 - ![gh][gh] [Certora Security Reports](https://github.com/Certora/SecurityReports)
@@ -136,9 +144,61 @@ A curated list of resources for Formal Verification with Certora Prover. Please 
 
 ### Videos
 
+- ![yt][yt] [Proving Correctness of LLM-Generated Smart Contracts](https://www.youtube.com/watch?v=6VfRtVTj__U)
+  Verifying AI-generated smart contracts with Certora
+  <sub>ETHDenver: John Toman, Feb 2026</sub>
+
+- ![yt][yt] [AI Meets Verification: Introducing Certora AI Composer](https://www.youtube.com/watch?v=6jtgbK43QOE)
+  AI-powered generation of verified implementations
+  <sub>Certora, Dec 2025</sub>
+
+- ![yt][yt] [DeFi Security 101: From Fuzzing to Formal Verification](https://www.youtube.com/watch?v=CIt4kphfuyI)
+  Overview of DeFi security tools from fuzzing to FV
+  <sub>DeFi Security Summit: Kevin Lotz, Nov 2025</sub>
+
 - ![yt][yt] [Formal Verification of Uniswap v4 Hooks](https://www.youtube.com/watch?v=6TqMiOdHKhA)
   FV approach to Uniswap v4 hook verification
   <sub>DeFi Security Summit, Nov 2025</sub>
+
+- ![yt][yt] [Secure By Design: Intro to FV for Uniswap v4 Hooks with Certora](https://www.youtube.com/watch?v=9tV11RtZ0Pw)
+  Hands-on introduction to verifying Uniswap v4 hooks
+  <sub>Atrium Academy, Aug 2025</sub>
+
+- ![yt][yt] [Securing AI-Assisted DeFi Development with Formal Verification](https://www.youtube.com/watch?v=lCY0--mo_s0)
+  FV role in AI-assisted DeFi development
+  <sub>EthCC: Mooly Sagiv, Jul 2025</sub>
+
+- ![yt][yt] [Best of Both Fuzzing and Formal Verification](https://www.youtube.com/watch?v=16bI2bzVkPE)
+  Combining fuzzing and FV approaches
+  <sub>EthCC: Uri Kirstein, Jul 2025</sub>
+
+- ![yt][yt] [Securing Your Protocol with the Certora Prover](https://www.youtube.com/watch?v=uDUS0XSrhPU)
+  Practical guide to protocol verification
+  <sub>EthCC: Pamina Georgiou, Jul 2025</sub>
+
+- ![yt][yt] [Satisfiability Modulo Finite Fields // The Certora Prover](https://www.youtube.com/watch?v=onB0nzyRN2k)
+  SMT solving techniques behind the Certora Prover
+  <sub>TUM Blockchain Club: Gereon Kremer, Oct 2024</sub>
+
+- ![yt][yt] [HackerHaus Livestream — Euler Labs x Spearbit x Certora](https://www.youtube.com/watch?v=d257TGYarxw)
+  Joint session on smart contract security and FV
+  <sub>Euler Labs, May 2024</sub>
+
+- ![yt][yt] [How to Prevent Prover Timeouts](https://www.youtube.com/watch?v=mntP0_EN-ZQ)
+  Webinar on debugging and preventing Prover timeouts
+  <sub>Certora, Sep 2023</sub>
+
+- ![yt][yt] [Getting Started with Certora Prover](https://www.youtube.com/watch?v=jv_1hEeG-lk)
+  Official getting started tutorial
+  <sub>Certora, Apr 2023</sub>
+
+- ![yt][yt] [Scaling Formal Verification to Find Bugs in Complex Smart Contract Systems](https://www.youtube.com/watch?v=kKVL3Fn6ZTk)
+  FV scalability for complex smart contracts
+  <sub>ETHGathering, Feb 2023</sub>
+
+- ![yt][yt] [Fuzzing Tools Series: Certora Prover](https://www.youtube.com/watch?v=9Gal-on-06E)
+  Certora Prover overview and demo
+  <sub>Spearbit, Jul 2022</sub>
 
 ### Works
 
