@@ -10,7 +10,7 @@ A curated list of resources for Formal Verification with Certora Prover. Please 
 
 ### Articles
 
-- ![certora][certora] [Certora Technology White Paper](https://www.certora.com/blog/white-paper)
+- <img src="assets/certora.png" height="20"> [Certora Technology White Paper](https://www.certora.com/blog/white-paper)
   How the Prover works, its capabilities and limitations
   <sub>Chandrakana Nandi, Mooly Sagiv & Daniel Jackson, Feb 2025</sub>
 
@@ -36,10 +36,10 @@ A curated list of resources for Formal Verification with Certora Prover. Please 
 
 ### Documentation
 
-- ![certora][certora] [Official documentation for Certora Prover](https://docs.certora.com/en/latest/docs/user-guide/install.html)
+- <img src="assets/certora.png" height="20"> [Official documentation for Certora Prover](https://docs.certora.com/en/latest/docs/user-guide/install.html)
   Setup, configuration, CVL language reference and examples
 
-- ![rareskills][rareskills] [Book of Formal Verification with Certora Prover](https://rareskills.io/tutorials/certora-book)
+- <img src="assets/rareskills.svg" height="20"> [Book of Formal Verification with Certora Prover](https://rareskills.io/tutorials/certora-book)
   Comprehensive CVL guide from basics to advanced patterns
 
 ### Articles
@@ -57,27 +57,27 @@ A curated list of resources for Formal Verification with Certora Prover. Please 
 
 ### Documentation
 
-- ![certora][certora] [Official documentation for Certora Sunbeam (Soroban) Prover](https://docs.certora.com/en/latest/docs/sunbeam/index.html)
+- <img src="assets/certora.png" height="20"> [Official documentation for Certora Sunbeam (Soroban) Prover](https://docs.certora.com/en/latest/docs/sunbeam/index.html)
   Setup, CVLR language, Soroban verification guide
 
-- ![certora][certora] [Tutorials for Certora Sunbeam](https://certora-sunbeam-tutorials.readthedocs-hosted.com/en/latest/)
+- <img src="assets/certora.png" height="20"> [Tutorials for Certora Sunbeam](https://certora-sunbeam-tutorials.readthedocs-hosted.com/en/latest/)
   Hands-on examples for Soroban contract verification
 
 ### Articles
 
-- ![certora][certora] [Formally Verifying WebAssembly — A Soroban Case Study](https://www.certora.com/blog/formally-verifying-webassembly)
+- <img src="assets/certora.png" height="20"> [Formally Verifying WebAssembly — A Soroban Case Study](https://www.certora.com/blog/formally-verifying-webassembly)
   Applying FV to Wasm bytecode through Soroban
   <sub>Chandrakana Nandi, Oct 2025</sub>
 
-- ![certora][certora] [Inside Certora's First Soroban Contests — Bringing Formal Verification to Rust](https://www.certora.com/blog/bringing-formal-verification-to-rust)
+- <img src="assets/certora.png" height="20"> [Inside Certora's First Soroban Contests — Bringing Formal Verification to Rust](https://www.certora.com/blog/bringing-formal-verification-to-rust)
   Lessons and insights from first Soroban FV competitions
   <sub>Shane Runquist & Chandrakana Nandi, Sept 2025</sub>
 
-- ![certora][certora] [Writing Verification-friendly Smart Contracts in Rust](https://www.certora.com/blog/writing-verification-friendly-smart-contracts-in-rust)
+- <img src="assets/certora.png" height="20"> [Writing Verification-friendly Smart Contracts in Rust](https://www.certora.com/blog/writing-verification-friendly-smart-contracts-in-rust)
   Rust patterns that simplify formal verification
   <sub>Chandrakana Nandi, Aug 2025</sub>
 
-- ![positive][positive] [Formal Methods for Stellar DeFi: Verifying Lending Protocol with Certora Sunbeam Prover](https://blog.positive.com/formal-methods-for-stellar-defi-verifying-lending-protocol-with-certora-sunbeam-prover-e860a192afac)
+- <img src="assets/positive.png" height="20"> [Formal Methods for Stellar DeFi: Verifying Lending Protocol with Certora Sunbeam Prover](https://blog.positive.com/formal-methods-for-stellar-defi-verifying-lending-protocol-with-certora-sunbeam-prover-e860a192afac)
   Practical Sunbeam methodology on a lending protocol
   <sub>Kirill Ziborov, Aug 2025</sub>
 
@@ -162,28 +162,28 @@ A curated list of resources for Formal Verification with Certora Prover. Please 
 
 ### Documentation
 
-- ![certora][certora] [Official documentation for Certora Solana Prover](https://docs.certora.com/en/latest/docs/solana/index.html)
+- <img src="assets/certora.png" height="20"> [Official documentation for Certora Solana Prover](https://docs.certora.com/en/latest/docs/solana/index.html)
   Setup, CVLR language, Solana program verification
 
 ### Articles
 
-- ![certora][certora] [Securing Kamino Lending — How Formal Verification Prevented Future Risks](https://www.certora.com/blog/securing-kamino-lending)
+- <img src="assets/certora.png" height="20"> [Securing Kamino Lending — How Formal Verification Prevented Future Risks](https://www.certora.com/blog/securing-kamino-lending)
   How FV found risks in Kamino's lending protocol
   <sub>Pamina Georgiou, Mar 2025</sub>
 
-- ![certora][certora] [Reviewing Token Extensions on Solana Using Formal Verification](https://www.certora.com/blog/token-extensions-audit)
+- <img src="assets/certora.png" height="20"> [Reviewing Token Extensions on Solana Using Formal Verification](https://www.certora.com/blog/token-extensions-audit)
   FV of Solana SPL token extensions
   <sub>Jorge Navas, Aug 2024</sub>
 
-- ![certora][certora] [Solana Verification Part 3: Formal Verification of the Confidentiality Extension of SPL](https://www.certora.com/blog/spl-extension)
+- <img src="assets/certora.png" height="20"> [Solana Verification Part 3: Formal Verification of the Confidentiality Extension of SPL](https://www.certora.com/blog/spl-extension)
   FV of SPL Confidential Transfer extension
   <sub>Jorge Navas, Aug 2023</sub>
 
-- ![certora][certora] [Solana Verification Part 2: Formal Verification of SPL Token 2022](https://www.certora.com/blog/sol-token)
+- <img src="assets/certora.png" height="20"> [Solana Verification Part 2: Formal Verification of SPL Token 2022](https://www.certora.com/blog/sol-token)
   FV of SPL Token 2022 standard
   <sub>Jorge Navas, Aug 2023</sub>
 
-- ![certora][certora] [Solana Verification Part 1: Formal Verification of Solana Smart Contracts](https://www.certora.com/blog/sol-formal-verification)
+- <img src="assets/certora.png" height="20"> [Solana Verification Part 1: Formal Verification of Solana Smart Contracts](https://www.certora.com/blog/sol-formal-verification)
   Introduction to FV for Solana programs
   <sub>Jorge Navas, Aug 2023</sub>
 
@@ -261,6 +261,3 @@ A curated list of resources for Formal Verification with Certora Prover. Please 
 [gh]: https://img.shields.io/badge/%20-181717?style=flat-square&logo=github&logoColor=white
 [pdf]: https://img.shields.io/badge/%20-EC1C24?style=flat-square
 [yt]: https://img.shields.io/badge/%20-FF0000?style=flat-square&logo=youtube&logoColor=white
-[certora]: assets/certora.png
-[rareskills]: assets/rareskills.svg
-[positive]: assets/positive.png
