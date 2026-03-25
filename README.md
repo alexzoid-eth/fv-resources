@@ -7,6 +7,7 @@ A curated list of resources for Formal Verification with Certora Prover. Please 
 <img src="https://www.certora.com/gradientlogo.png" height="50" alt="Certora">
 
 ### General
+`updated: March 2026`
 
 ### Docs
 
@@ -22,15 +23,31 @@ A curated list of resources for Formal Verification with Certora Prover. Please 
   How the Prover works, its capabilities and limitations
   <sub>Chandrakana Nandi, Mooly Sagiv & Daniel Jackson, Feb 2025</sub>
 
+- [Formal Verification in Solidity and Move: Comparative Analysis](https://arxiv.org/abs/2502.13929)
+  Comparative analysis using Certora and Move Prover; open dataset
+  <sub>Enrico Lipparini et al., Feb 2025</sub>
+
+- [PropertyGPT: LLM-driven Formal Verification of Smart Contracts](https://arxiv.org/abs/2405.02580)
+  Uses 61 Certora audit reports as knowledge base for automated property generation
+  <sub>May 2024</sub>
+
 - <img src="assets/certora.png" height="20"> [Catch Tricky Bugs in Less Time Using Formal Verification](https://www.certora.com/blog/catch-tricky-bugs-in-less-time-using-formal-verification)
   Why FV catches bugs that testing and audits miss
   <sub>Armen Ter-Avetisyan, Apr 2024</sub>
+
+- [Trust but Verify: Scaling Deductive Verification with Abstract Interpretation](https://popl24.sigplan.org/details/N40AI-2024-papers/8/Trust-but-Verify-Scaling-Deductive-Verification-with-Abstract-Interpretation)
+  Certora's pointer analysis for EVM bytecode (POPL 2024)
+  <sub>Mooly Sagiv, Jan 2024</sub>
 
 - <img src="assets/certora.png" height="20"> [5 Myths About Formal Verification](https://www.certora.com/blog/5myths)
   Common misconceptions about FV debunked
   <sub>Mooly Sagiv, Dec 2022</sub>
 
 ### Videos
+
+- ![yt][yt] [Formal Verification of Uniswap v4 Hooks](https://www.youtube.com/watch?v=6TqMiOdHKhA)
+  FV approach to Uniswap v4 hook verification
+  <sub>DeFi Security Summit, Nov 2025</sub>
 
 - ![yt][yt] [Why Formal Verification Matters: Fireside Chat with Certora CEO Mooly Sagiv](https://www.youtube.com/watch?v=2tARWL61wCo)
   FV role in smart contract security, Certora vision
@@ -61,7 +78,7 @@ A curated list of resources for Formal Verification with Certora Prover. Please 
 <img src="https://raw.githubusercontent.com/ethereum/ethereum-org-website/dev/public/images/assets/eth-diamond-purple.png" height="50" alt="Ethereum">
 
 ### EVM
-`In progress — more resources coming soon`
+`updated: March 2026`
 
 ### Docs
 
@@ -213,6 +230,9 @@ A curated list of resources for Formal Verification with Certora Prover. Please 
   Vault protocol FV report
   <sub>Cantina/alexzoid, Jun 2024</sub>
 
+- ![gh][gh] [Uniswap V4 Core](https://github.com/Certora/v4-core/tree/certoraFV)
+  DEX protocol v4 with CVL specs
+  <sub>Certora, Feb 2025</sub>
 - ![pdf][pdf] [Uniswap V4 Core](https://github.com/Certora/SecurityReports/blob/main/Reports/2024/09_05_2024_Uniswap_V4_Core-FV-MR.pdf)
   DEX protocol v4 FV report
   <sub>Certora, Sep 2024</sub>
@@ -248,6 +268,9 @@ A curated list of resources for Formal Verification with Certora Prover. Please 
   Integrated liquidity market FV report
   <sub>Certora, Apr 2024</sub>
 
+- ![gh][gh] [MetaMorpho](https://github.com/morpho-org/metamorpho)
+  Vault protocol with CVL specs
+  <sub>Morpho, Feb 2026</sub>
 - ![gh][gh] [Morpho Blue](https://github.com/morpho-org/morpho-blue)
   Lending protocol with CVL specs
   <sub>Morpho, Feb 2026</sub>
@@ -275,6 +298,18 @@ A curated list of resources for Formal Verification with Certora Prover. Please 
   <sub>Certora, Nov 2025</sub>
 
 ### Libs & Tools
+
+- ![gh][gh] [Graphcore](https://github.com/Certora/graphcore)
+  Reusable framework for LLM-powered workflows
+  <sub>Certora, Mar 2026</sub>
+
+- ![gh][gh] [cvldocTool](https://github.com/Certora/cvldocTool)
+  NatSpec comment extractor for CVL spec files
+  <sub>Certora, Mar 2024</sub>
+
+- <img src="assets/certora.png" height="20"> [CVL Language Support for VS Code](https://marketplace.visualstudio.com/items?itemName=Certora.evmspec-lsp)
+  Syntax highlighting and LSP support for CVL specs
+  <sub>Certora</sub>
 
 - <img src="assets/certora.png" height="20"> [Equivalence Checking](https://docs.certora.com/en/latest/docs/equiv-check/index.html) ([GitHub](https://github.com/Certora/CertoraProver/tree/master/scripts/EquivalenceCheck))
   Automated equivalence checking between contract versions
