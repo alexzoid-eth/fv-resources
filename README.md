@@ -48,7 +48,7 @@ Please DM me if you'd like to update it.
 
 ### Tools
 
-- [GitHub Action for running Certora Prover](https://github.com/Certora/certora-run-action) — Certora, constantly updated
+- ![gh][gh] [GitHub Action for running Certora Prover](https://github.com/Certora/certora-run-action) — Certora, constantly updated
 
 ---
 
@@ -76,24 +76,24 @@ Please DM me if you'd like to update it.
 
 ### Specifications
 
-- [OpenZeppelin Contracts for Stellar Soroban](https://github.com/Certora/stellar-contracts/tree/certora/packages/access/src/ownable/specs) — Certora, constantly updated
-- [Aquarius](https://github.com/alexzoid-eth/aquarius-cantina-fv/tree/main/fees_collector/src/certora_specs) — Certora competition: alexzoid, #2 place, Jun 2025
-- [Aquarius — top winners](https://github.com/Certora/aquarius-cantina-fv/tree/main/Example_Submissions) — Certora competition, Jun 2025
-- [Blend v2](https://github.com/Certora/blend-contracts-v2/tree/certora/pool/src/spec) — Certora, Mar 2025
-- [Blend v2](https://github.com/alexzoid-eth/2025-02-blend-fv/tree/main/blend-contracts-v2/backstop) — Certora competition: alexzoid, #1 place, Feb 2025
-- [Blend v1](https://github.com/Certora/blend-contracts/tree/certora/pool/src/spec) — Certora, Jan 2025
-- [Meridian Certora Workshop](https://github.com/Certora/meridian2024-workshop) — Sunbeam on a simple example, Nov 2024
+- ![gh][gh] [OpenZeppelin Contracts for Stellar Soroban](https://github.com/Certora/stellar-contracts/tree/certora/packages/access/src/ownable/specs) — Certora, constantly updated
+- ![gh][gh] [Aquarius](https://github.com/alexzoid-eth/aquarius-cantina-fv/tree/main/fees_collector/src/certora_specs) — Certora competition: alexzoid, #2 place, Jun 2025
+- ![gh][gh] [Aquarius — top winners](https://github.com/Certora/aquarius-cantina-fv/tree/main/Example_Submissions) — Certora competition, Jun 2025
+- ![gh][gh] [Blend v2](https://github.com/Certora/blend-contracts-v2/tree/certora/pool/src/spec) — Certora, Mar 2025
+- ![gh][gh] [Blend v2](https://github.com/alexzoid-eth/2025-02-blend-fv/tree/main/blend-contracts-v2/backstop) — Certora competition: alexzoid, #1 place, Feb 2025
+- ![gh][gh] [Blend v1](https://github.com/Certora/blend-contracts/tree/certora/pool/src/spec) — Certora, Jan 2025
+- ![gh][gh] [Meridian Certora Workshop](https://github.com/Certora/meridian2024-workshop) — Sunbeam on a simple example, Nov 2024
 
 ### Reports
 
-- [Aquarius FV Competition Report](https://github.com/Certora/aquarius-cantina-fv/blob/main/Report.md) — Cantina, Jun 2025
-- [Blend v2 FV Competition Report](https://github.com/code-423n4/2025-02-blend-fv/blob/main/Report.md) — Code4rena, Feb-Mar 2025
-- [Blend v2](https://github.com/alexzoid-eth/2025-02-blend-fv/blob/main/blend-contracts-v2/backstop/2025_02_blend_v2_backstop_fv_report_alexzoid.pdf) — Certora competition: alexzoid, Feb 2025
-- [Blend v1](https://github.com/Certora/SecurityReports/blob/main/Reports/2025/01_30_2025_Blend_V1-FV.pdf) — Certora, Feb 2025
+- ![gh][gh] [Aquarius FV Competition Report](https://github.com/Certora/aquarius-cantina-fv/blob/main/Report.md) — Cantina, Jun 2025
+- ![gh][gh] [Blend v2 FV Competition Report](https://github.com/code-423n4/2025-02-blend-fv/blob/main/Report.md) — Code4rena, Feb-Mar 2025
+- ![pdf][pdf] [Blend v2](https://github.com/alexzoid-eth/2025-02-blend-fv/blob/main/blend-contracts-v2/backstop/2025_02_blend_v2_backstop_fv_report_alexzoid.pdf) — Certora competition: alexzoid, Feb 2025
+- ![pdf][pdf] [Blend v1](https://github.com/Certora/SecurityReports/blob/main/Reports/2025/01_30_2025_Blend_V1-FV.pdf) — Certora, Feb 2025
 
 ### Libraries
 
-- [CVLR for Soroban smart contracts](https://github.com/Certora/cvlr-soroban) — Certora, constantly updated
+- ![gh][gh] [CVLR for Soroban smart contracts](https://github.com/Certora/cvlr-soroban) — Certora, constantly updated
 
 ---
 
@@ -121,23 +121,27 @@ Please DM me if you'd like to update it.
 
 ### Specifications
 
-- [Examples from Prover's Public/TestSolana directory](https://github.com/Certora/CertoraProver/tree/master/Public/TestSolana) — Certora
-- [Solana applications verification examples](https://github.com/Certora/SolanaExamples/tree/main/cvlr_by_example) — Certora, ~Jun 2025
-- [Certora Tokenized Vault for Solana Tutorial](https://github.com/Certora/certora-vault-tutorial/tree/main/programs/vault/src/certora) — Certora, ~May 2025
+- ![gh][gh] [Examples from Prover's Public/TestSolana directory](https://github.com/Certora/CertoraProver/tree/master/Public/TestSolana) — Certora
+- ![gh][gh] [Solana applications verification examples](https://github.com/Certora/SolanaExamples/tree/main/cvlr_by_example) — Certora, ~Jun 2025
+- ![gh][gh] [Certora Tokenized Vault for Solana Tutorial](https://github.com/Certora/certora-vault-tutorial/tree/main/programs/vault/src/certora) — Certora, ~May 2025
 
 ### Reports
 
-- [Deriverse DEX](https://github.com/alexzoid-eth/fv-track-record/blob/main/pdf/2025_11_deriverse_fv_report_cyfrin_alexzoid.pdf) — Cyfrin contractor: alexzoid, Nov 2025
-- [Kamino LIMO](https://github.com/Certora/SecurityReports/blob/main/Reports/2025/07_28_2025_Kamino_LIMO.pdf) — Certora, Jul 2025
-- [Kamino Vault](https://github.com/Certora/SecurityReports/blob/main/Reports/2025/07_07_2025_Kamino_Vault.pdf) — Certora, Jul 2025
-- [Squads multi-signature wallet](https://github.com/Certora/SecurityReports/blob/main/Reports/2025/02_15_2025_Squads-FV-MR.pdf) — Certora, Feb 2025
+- ![pdf][pdf] [Deriverse DEX](https://github.com/alexzoid-eth/fv-track-record/blob/main/pdf/2025_11_deriverse_fv_report_cyfrin_alexzoid.pdf) — Cyfrin contractor: alexzoid, Nov 2025
+- ![pdf][pdf] [Kamino LIMO](https://github.com/Certora/SecurityReports/blob/main/Reports/2025/07_28_2025_Kamino_LIMO.pdf) — Certora, Jul 2025
+- ![pdf][pdf] [Kamino Vault](https://github.com/Certora/SecurityReports/blob/main/Reports/2025/07_07_2025_Kamino_Vault.pdf) — Certora, Jul 2025
+- ![pdf][pdf] [Squads multi-signature wallet](https://github.com/Certora/SecurityReports/blob/main/Reports/2025/02_15_2025_Squads-FV-MR.pdf) — Certora, Feb 2025
 
 ### Libraries
 
-- [CVLR library for Solana](https://github.com/Certora/cvlr-solana) — Certora, constantly updated
+- ![gh][gh] [CVLR library for Solana](https://github.com/Certora/cvlr-solana) — Certora, constantly updated
 
 ### Tools
 
-- [Solana spec template](https://github.com/Certora/solana-spec-template) — Certora, constantly updated
-- [cargo-certora-sbf](https://github.com/Certora/cargo-certora-sbf) — Cargo subcommand for building Solana programs for Certora Prover, constantly updated
-- [Certora Solana Platform Tools](https://github.com/Certora/certora-solana-platform-tools) — Certora, constantly updated
+- ![gh][gh] [Solana spec template](https://github.com/Certora/solana-spec-template) — Certora, constantly updated
+- ![gh][gh] [cargo-certora-sbf](https://github.com/Certora/cargo-certora-sbf) — Cargo subcommand for building Solana programs for Certora Prover, constantly updated
+- ![gh][gh] [Certora Solana Platform Tools](https://github.com/Certora/certora-solana-platform-tools) — Certora, constantly updated
+
+<!-- Badge references -->
+[gh]: https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white
+[pdf]: https://img.shields.io/badge/-PDF-EC1C24?style=flat-square
