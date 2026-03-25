@@ -14,6 +14,10 @@ A curated list of resources for Formal Verification with Certora Prover. Please 
   How the Prover works, its capabilities and limitations
   <sub>Chandrakana Nandi, Mooly Sagiv & Daniel Jackson, Feb 2025</sub>
 
+- [The Three Prompts of Spec Thinking: Yet Another Lens for Smart Contract Auditing](https://justdravee.github.io/posts/the-3-prompts-of-spec-thinking/)
+  Framework for writing properties and invariants through three guiding questions
+  <sub>Dravee, Apr 2025</sub>
+
 ### Videos
 
 - ![yt][yt] [Why Formal Verification Matters: Fireside Chat with Certora CEO Mooly Sagiv](https://www.youtube.com/watch?v=2tARWL61wCo)
@@ -21,6 +25,10 @@ A curated list of resources for Formal Verification with Certora Prover. Please 
   <sub>RareTalks, May 2025</sub>
 
 ### Tools
+
+- ![gh][gh] [Certora Prover](https://github.com/Certora/CertoraProver)
+  Automated formal verification of smart contracts for EVM, Solana and Stellar
+  <sub>Certora, constantly updated</sub>
 
 - ![gh][gh] [GitHub Action for running Certora Prover](https://github.com/Certora/certora-run-action)
   CI/CD integration for automated Prover runs
