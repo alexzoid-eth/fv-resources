@@ -28,7 +28,7 @@ A curated list of resources for Formal Verification with Certora Prover. Please 
 
 - <img src="assets/certora.png" height="20"> [5 Myths About Formal Verification](https://www.certora.com/blog/5myths)
   Common misconceptions about FV debunked
-  <sub>Mooly Sagiv, Aug 2023</sub>
+  <sub>Mooly Sagiv, Dec 2022</sub>
 
 ### Videos
 
@@ -311,10 +311,6 @@ A curated list of resources for Formal Verification with Certora Prover. Please 
   Hands-on examples and source code for Soroban verification
   <sub>Certora, Nov 2025</sub>
 
-- <img src="assets/certora.png" height="20"> [Formally Verifying WebAssembly — A Soroban Case Study](https://www.certora.com/blog/formally-verifying-webassembly)
-  Applying FV to Wasm bytecode through Soroban
-  <sub>Chandrakana Nandi, Oct 2025</sub>
-
 - <img src="assets/certora.png" height="20"> [Inside Certora's First Soroban Contests — Bringing Formal Verification to Rust](https://www.certora.com/blog/bringing-formal-verification-to-rust)
   Lessons and insights from first Soroban FV competitions
   <sub>Shane Runquist & Chandrakana Nandi, Sept 2025</sub>
@@ -326,6 +322,10 @@ A curated list of resources for Formal Verification with Certora Prover. Please 
 - <img src="assets/positive.png" height="20"> [Formal Methods for Stellar DeFi: Verifying Lending Protocol with Certora Sunbeam Prover](https://blog.positive.com/formal-methods-for-stellar-defi-verifying-lending-protocol-with-certora-sunbeam-prover-e860a192afac)
   Practical Sunbeam methodology on a lending protocol
   <sub>Kirill Ziborov, Aug 2025</sub>
+
+- <img src="assets/certora.png" height="20"> [Formally Verifying WebAssembly — A Soroban Case Study](https://www.certora.com/blog/formally-verifying-webassembly)
+  Applying FV to Wasm bytecode through Soroban
+  <sub>Chandrakana Nandi, Oct 2024</sub>
 
 ### Videos
 
