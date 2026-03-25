@@ -48,6 +48,12 @@ A curated list of resources for Formal Verification with Certora Prover. Please 
   Hands-on walkthrough: CVL syntax, rules, invariants, hooks
   <sub>Certora: Lilian Cariou, Mar-Apr 2025</sub>
 
+### Tools
+
+- ![gh][gh] [Gambit — Mutant Generation for Solidity](https://github.com/Certora/gambit)
+  Mutation testing to evaluate quality of test suites and FV specs
+  <sub>Certora, constantly updated</sub>
+
 ---
 
 <img src="https://github.com/stellar/.github/raw/master/stellar-logo.png" height="50" alt="Stellar">
