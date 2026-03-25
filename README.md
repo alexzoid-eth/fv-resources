@@ -56,6 +56,12 @@ A curated list of resources for Formal Verification with Certora Prover. Please 
 - <img src="assets/certora.png" height="20"> [Official documentation for Certora Prover](https://docs.certora.com/en/latest/docs/user-guide/install.html)
   Setup, configuration, CVL language reference and examples
 
+- <img src="assets/certora.png" height="20"> [CVL Language Reference](https://docs.certora.com/en/latest/docs/cvl/index.html)
+  Complete CVL specification language reference
+
+- <img src="assets/certora.png" height="20"> [Certora Prover Tutorials](https://docs.certora.com/projects/tutorials)
+  Step-by-step tutorials for learning CVL and the Prover
+
 - <img src="assets/rareskills.svg" height="20"> [Book of Formal Verification with Certora Prover](https://rareskills.io/tutorials/certora-book)
   Comprehensive CVL guide from basics to advanced patterns
 
@@ -82,6 +88,10 @@ A curated list of resources for Formal Verification with Certora Prover. Please 
 - <img src="assets/alexzoid.jpg" height="20"> [First Steps with Certora FV: Catching a Real Bug with a Universal 5-Line Rule](https://alexzoid.com/first-steps-with-certora-fv-catching-a-real-bug)
   Beginner-friendly setup and a universal CVL rule for storage bugs
   <sub>alexzoid, Feb 2025</sub>
+
+- <img src="assets/certora.png" height="20"> [Concordance: Automatically Simplifying Smart Contracts](https://www.certora.com/blog/concordance-automatically-simplifying-smart-contracts) ([GitHub](https://github.com/Certora/CertoraProver/tree/master/scripts/concordance))
+  Automated contract simplification for easier verification
+  <sub>Certora</sub>
 
 ### Works
 
@@ -224,6 +234,10 @@ A curated list of resources for Formal Verification with Certora Prover. Please 
   Standard library with CVL specs
   <sub>OpenZeppelin, Mar 2026</sub>
 
+- ![gh][gh] [Examples from Prover's Public/TestEVM directory](https://github.com/Certora/CertoraProver/tree/master/Public/TestEVM)
+  Reference specs from Prover's test suite
+  <sub>Certora, Mar 2026</sub>
+
 - ![gh][gh] [Certora Examples](https://github.com/Certora/Examples)
   Reference CVL examples and patterns
   <sub>Certora, Mar 2026</sub>
@@ -237,6 +251,10 @@ A curated list of resources for Formal Verification with Certora Prover. Please 
 - ![gh][gh] [AI Composer](https://github.com/Certora/AIComposer)
   AI-powered generation of verified implementations from docs and CVL specs
   <sub>Certora, Mar 2026</sub>
+
+- ![gh][gh] [CertoraInit](https://github.com/Certora/CertoraInit)
+  Boilerplate for new EVM FV projects
+  <sub>Certora, Feb 2025</sub>
 
 - ![gh][gh] [Gambit — Mutant Generation for Solidity](https://github.com/Certora/gambit)
   Mutation testing to evaluate quality of test suites and FV specs
