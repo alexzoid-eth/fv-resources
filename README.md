@@ -10,25 +10,25 @@ A curated list of resources for Formal Verification with Certora Prover. Please 
 
 ### Docs
 
-- <img src="assets/certora.png" height="20"> [Certora Technology White Paper](https://www.certora.com/blog/white-paper)
-  How the Prover works, its capabilities and limitations
-  <sub>Chandrakana Nandi, Mooly Sagiv & Daniel Jackson, Feb 2025</sub>
-
 - <img src="assets/certora.png" height="20"> [A Guide to Formal Verification](https://www.certora.com/blog/formal-verification)
   Introduction to FV concepts and Certora approach
   <sub>Chandrakana Nandi, Mooly Sagiv, Raiders Blake & Uri Kirstein, Apr 2025</sub>
 
-- <img src="assets/certora.png" height="20"> [5 Myths About Formal Verification](https://www.certora.com/blog/5myths)
-  Common misconceptions about FV debunked
-  <sub>Mooly Sagiv, Aug 2023</sub>
+- <img src="assets/dravee.png" height="20"> [The Three Prompts of Spec Thinking: Yet Another Lens for Smart Contract Auditing](https://justdravee.github.io/posts/the-3-prompts-of-spec-thinking/)
+  Framework for writing properties and invariants through three guiding questions
+  <sub>Dravee, Apr 2025</sub>
+
+- <img src="assets/certora.png" height="20"> [Certora Technology White Paper](https://www.certora.com/blog/white-paper)
+  How the Prover works, its capabilities and limitations
+  <sub>Chandrakana Nandi, Mooly Sagiv & Daniel Jackson, Feb 2025</sub>
 
 - <img src="assets/certora.png" height="20"> [Catch Tricky Bugs in Less Time Using Formal Verification](https://www.certora.com/blog/catch-tricky-bugs-in-less-time-using-formal-verification)
   Why FV catches bugs that testing and audits miss
   <sub>Armen Ter-Avetisyan, Apr 2024</sub>
 
-- <img src="assets/dravee.png" height="20"> [The Three Prompts of Spec Thinking: Yet Another Lens for Smart Contract Auditing](https://justdravee.github.io/posts/the-3-prompts-of-spec-thinking/)
-  Framework for writing properties and invariants through three guiding questions
-  <sub>Dravee, Apr 2025</sub>
+- <img src="assets/certora.png" height="20"> [5 Myths About Formal Verification](https://www.certora.com/blog/5myths)
+  Common misconceptions about FV debunked
+  <sub>Mooly Sagiv, Aug 2023</sub>
 
 ### Videos
 
@@ -79,22 +79,35 @@ A curated list of resources for Formal Verification with Certora Prover. Please 
 
 - <img src="assets/rareskills.svg" height="20"> [Book of Formal Verification with Certora Prover](https://rareskills.io/tutorials/certora-book)
   Comprehensive CVL guide from basics to advanced patterns
+  <sub>RareSkills: Jeffrey Scholz</sub>
 
 - <img src="assets/cyfrin.png" height="20"> [Formal Verification & Assembly course](https://updraft.cyfrin.io/courses/formal-verification)
   Video course covering CVL, assembly and FV fundamentals
   <sub>Cyfrin Updraft: Patrick Collins</sub>
 
+- <img src="assets/certora.png" height="20"> [Finding Compiler Bugs with Formal Verification](https://www.certora.com/blog/finding-compiler-bugs-with-formal-verification)
+  Using Certora Prover to find Solidity compiler bugs
+  <sub>John Toman, Jun 2025</sub>
+
+- <img src="assets/certora.png" height="20"> [Ensuring Fair Redemptions in InfiniFi with Formal Verification](https://www.certora.com/blog/ensuring-fair-redemptions-in-infinifi-with-formal-verification)
+  FV case study on redemption fairness in InfiniFi protocol
+  <sub>Pamina Georgiou & Andrew Ferraioulo, Jun 2025</sub>
+
+- <img src="assets/certora.png" height="20"> [Securing Uniswap v4](https://www.certora.com/blog/securing-uniswap-v4-part-5)
+  FV findings and methodology for Uniswap v4 Core
+  <sub>Roy Perry, Raiders Blake & Uri Kirstein, May 2025</sub>
+
 - <img src="assets/rasengansec.png" height="20"> [Learning CVL Language](https://rasengansec.hashnode.dev/learning-certora-prover-part-1) ([Part 2](https://rasengansec.hashnode.dev/learning-certora-prover-part-2), [Part 3](https://rasengansec.hashnode.dev/learning-cvl-language-part-3), [Part 4](https://rasengansec.hashnode.dev/learning-cvl-language-part-4))
   Hands-on walkthrough: CVL syntax, rules, invariants, hooks
   <sub>Certora: Lilian Cariou, Mar-Apr 2025</sub>
 
-- <img src="assets/dacian.jpg" height="20"> [Find Highs Before External Auditors Using Certora Formal Verification](https://dacian.me/find-highs-before-external-auditors-using-certora-formal-verification) ([GitHub](https://github.com/devdacian/solidity-fuzzing-comparison))
-  Practical guide to finding critical bugs with CVL, fuzzing tools comparison
-  <sub>Dacian, Feb 2025</sub>
-
 - <img src="assets/alexzoid.jpg" height="20"> [Certora FV Practical Guide: Insights from the Badger eBTC Competition](https://alexzoid.com/certora-formal-verification-practical-guide)
   Practical workflow and methodology from Badger eBTC FV competition
   <sub>alexzoid, Mar 2025</sub>
+
+- <img src="assets/dacian.jpg" height="20"> [Find Highs Before External Auditors Using Certora Formal Verification](https://dacian.me/find-highs-before-external-auditors-using-certora-formal-verification) ([GitHub](https://github.com/devdacian/solidity-fuzzing-comparison))
+  Practical guide to finding critical bugs with CVL, fuzzing tools comparison
+  <sub>Dacian, Feb 2025</sub>
 
 - <img src="assets/alexzoid.jpg" height="20"> [Inside Certora FV Contests: A Step-by-Step Guide Based on the Uniswap v4 Contest](https://alexzoid.com/practical-guide-to-certora-formal-verification-contests)
   Contest structure, best practices and mutation bug walkthrough
@@ -103,22 +116,6 @@ A curated list of resources for Formal Verification with Certora Prover. Please 
 - <img src="assets/alexzoid.jpg" height="20"> [First Steps with Certora FV: Catching a Real Bug with a Universal 5-Line Rule](https://alexzoid.com/first-steps-with-certora-fv-catching-a-real-bug)
   Beginner-friendly setup and a universal CVL rule for storage bugs
   <sub>alexzoid, Feb 2025</sub>
-
-- <img src="assets/certora.png" height="20"> [Concordance: Automatically Simplifying Smart Contracts](https://www.certora.com/blog/concordance-automatically-simplifying-smart-contracts) ([GitHub](https://github.com/Certora/CertoraProver/tree/master/scripts/concordance))
-  Automated contract simplification for easier verification
-  <sub>John Toman & Uri Kirstein, Sep 2025</sub>
-
-- <img src="assets/certora.png" height="20"> [Finding Compiler Bugs with Formal Verification](https://www.certora.com/blog/finding-compiler-bugs-with-formal-verification)
-  Using Certora Prover to find Solidity compiler bugs
-  <sub>John Toman, Jun 2025</sub>
-
-- <img src="assets/certora.png" height="20"> [Securing Uniswap v4 — Part 5](https://www.certora.com/blog/securing-uniswap-v4-part-5)
-  FV findings and methodology for Uniswap v4 Core
-  <sub>Roy Perry, Raiders Blake & Uri Kirstein, May 2025</sub>
-
-- <img src="assets/certora.png" height="20"> [Ensuring Fair Redemptions in InfiniFi with Formal Verification](https://www.certora.com/blog/ensuring-fair-redemptions-in-infinifi-with-formal-verification)
-  FV case study on redemption fairness in InfiniFi protocol
-  <sub>Pamina Georgiou & Andrew Ferraioulo, Jun 2025</sub>
 
 - <img src="assets/morpho.png" height="20"> [Formally Verifying Morpho Blue with Certora](https://paragraph.com/@morpho/formally-verifying-morpho-blue-with-certora) ([GitHub](https://github.com/morpho-org/morpho-blue))
   FV methodology and findings for Morpho Blue
@@ -282,17 +279,21 @@ A curated list of resources for Formal Verification with Certora Prover. Please 
 - <img src="assets/certora.png" height="20"> [Equivalence Checking](https://docs.certora.com/en/latest/docs/equiv-check/index.html) ([GitHub](https://github.com/Certora/CertoraProver/tree/master/scripts/EquivalenceCheck))
   Automated equivalence checking between contract versions
 
+- <img src="assets/certora.png" height="20"> [Concordance: Automatically Simplifying Smart Contracts](https://www.certora.com/blog/concordance-automatically-simplifying-smart-contracts) ([GitHub](https://github.com/Certora/CertoraProver/tree/master/scripts/concordance))
+  Automated contract simplification for easier verification
+  <sub>John Toman & Uri Kirstein, Sep 2025</sub>
+
 - ![gh][gh] [AI Composer](https://github.com/Certora/AIComposer)
   AI-powered generation of verified implementations from docs and CVL specs
   <sub>Certora, Mar 2026</sub>
 
-- ![gh][gh] [CertoraInit](https://github.com/Certora/CertoraInit)
-  Boilerplate for new EVM FV projects
-  <sub>Certora, Feb 2025</sub>
-
 - <img src="assets/certora.png" height="20"> [Gambit — Mutant Generation for Solidity](https://docs.certora.com/en/latest/docs/gambit/index.html) ([GitHub](https://github.com/Certora/gambit))
   Mutation testing to evaluate quality of test suites and FV specs
   <sub>Certora, May 2025</sub>
+
+- ![gh][gh] [CertoraInit](https://github.com/Certora/CertoraInit)
+  Boilerplate for new EVM FV projects
+  <sub>Certora, Feb 2025</sub>
 
 ---
 
