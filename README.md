@@ -59,17 +59,29 @@ A curated list of resources for Formal Verification with Certora Prover. Please 
 - <img src="assets/rareskills.svg" height="20"> [Book of Formal Verification with Certora Prover](https://rareskills.io/tutorials/certora-book)
   Comprehensive CVL guide from basics to advanced patterns
 
-- [Formal Verification & Assembly course](https://updraft.cyfrin.io/courses/formal-verification)
+- <img src="assets/cyfrin.png" height="20"> [Formal Verification & Assembly course](https://updraft.cyfrin.io/courses/formal-verification)
   Video course covering CVL, assembly and FV fundamentals
   <sub>Cyfrin Updraft: Patrick Collins</sub>
 
-- [Learning CVL Language](https://rasengansec.hashnode.dev/learning-certora-prover-part-1) ([Part 2](https://rasengansec.hashnode.dev/learning-certora-prover-part-2), [Part 3](https://rasengansec.hashnode.dev/learning-cvl-language-part-3), [Part 4](https://rasengansec.hashnode.dev/learning-cvl-language-part-4))
+- <img src="assets/rasengansec.png" height="20"> [Learning CVL Language](https://rasengansec.hashnode.dev/learning-certora-prover-part-1) ([Part 2](https://rasengansec.hashnode.dev/learning-certora-prover-part-2), [Part 3](https://rasengansec.hashnode.dev/learning-cvl-language-part-3), [Part 4](https://rasengansec.hashnode.dev/learning-cvl-language-part-4))
   Hands-on walkthrough: CVL syntax, rules, invariants, hooks
   <sub>Certora: Lilian Cariou, Mar-Apr 2025</sub>
 
-- [Find Highs Before External Auditors Using Certora Formal Verification](https://dacian.me/find-highs-before-external-auditors-using-certora-formal-verification) ([GitHub](https://github.com/devdacian/solidity-fuzzing-comparison))
+- <img src="assets/dacian.jpg" height="20"> [Find Highs Before External Auditors Using Certora Formal Verification](https://dacian.me/find-highs-before-external-auditors-using-certora-formal-verification) ([GitHub](https://github.com/devdacian/solidity-fuzzing-comparison))
   Practical guide to finding critical bugs with CVL, fuzzing tools comparison
   <sub>Dacian, Feb 2025</sub>
+
+- <img src="assets/alexzoid.jpg" height="20"> [Certora FV Practical Guide: Insights from the Badger eBTC Competition](https://alexzoid.com/certora-formal-verification-practical-guide)
+  Practical workflow and methodology from Badger eBTC FV competition
+  <sub>alexzoid, Mar 2025</sub>
+
+- <img src="assets/alexzoid.jpg" height="20"> [Inside Certora FV Contests: A Step-by-Step Guide Based on the Uniswap v4 Contest](https://alexzoid.com/practical-guide-to-certora-formal-verification-contests)
+  Contest structure, best practices and mutation bug walkthrough
+  <sub>alexzoid, Feb 2025</sub>
+
+- <img src="assets/alexzoid.jpg" height="20"> [First Steps with Certora FV: Catching a Real Bug with a Universal 5-Line Rule](https://alexzoid.com/first-steps-with-certora-fv-catching-a-real-bug)
+  Beginner-friendly setup and a universal CVL rule for storage bugs
+  <sub>alexzoid, Feb 2025</sub>
 
 ### Works
 
