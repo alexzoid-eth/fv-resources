@@ -1,36 +1,12 @@
 # Certora Formal Verification Resources
 
-A curated list of resources for Formal Verification with Certora Prover (EVM / Stellar / Solana).
-Please DM me if you'd like to update it.
+A curated list of resources for Formal Verification with Certora Prover. Please DM me if you'd like to update it.
 
-## Table of Contents
+[General ↓](#general) · [EVM ↓](#evm) · [Stellar ↓](#stellar) · [Solana ↓](#solana)
 
-- [General](#-general)
-  - [Articles](#articles)
-  - [Videos](#videos)
-  - [Tools](#tools)
-- [EVM](#-evm)
-  - [Documentation](#documentation)
-  - [Articles](#articles-1)
-- [Stellar](#-stellar)
-  - [Documentation](#documentation-1)
-  - [Articles](#articles-2)
-  - [Videos](#videos-2)
-  - [Specifications](#specifications)
-  - [Reports](#reports)
-  - [Libraries](#libraries)
-- [Solana](#-solana)
-  - [Documentation](#documentation-2)
-  - [Articles](#articles-3)
-  - [Videos](#videos-3)
-  - [Specifications](#specifications-1)
-  - [Reports](#reports-1)
-  - [Libraries](#libraries-1)
-  - [Tools](#tools-1)
+<img src="https://www.certora.com/gradientlogo.png" height="50" alt="Certora">
 
----
-
-## ◆ General
+### General
 
 ### Articles
 
@@ -52,7 +28,9 @@ Please DM me if you'd like to update it.
 
 ---
 
-## ⟠ EVM
+<img src="https://raw.githubusercontent.com/ethereum/ethereum-org-website/dev/public/images/assets/eth-diamond-purple.png" height="50" alt="Ethereum">
+
+### EVM
 
 > In progress — more resources coming soon
 
@@ -72,7 +50,9 @@ Please DM me if you'd like to update it.
 
 ---
 
-## ✦ Stellar
+<img src="https://github.com/stellar/.github/raw/master/stellar-logo.png" height="50" alt="Stellar">
+
+### Stellar
 `updated: March 2026`
 
 ### Documentation
@@ -175,7 +155,9 @@ Please DM me if you'd like to update it.
 
 ---
 
-## ◎ Solana
+<img src="https://solana.com/src/img/branding/solanaLogoMark.svg" height="50" alt="Solana">
+
+### Solana
 `updated: March 2026`
 
 ### Documentation
