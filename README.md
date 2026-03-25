@@ -14,7 +14,7 @@ A curated list of resources for Formal Verification with Certora Prover. Please 
   How the Prover works, its capabilities and limitations
   <sub>Chandrakana Nandi, Mooly Sagiv & Daniel Jackson, Feb 2025</sub>
 
-- [The Three Prompts of Spec Thinking: Yet Another Lens for Smart Contract Auditing](https://justdravee.github.io/posts/the-3-prompts-of-spec-thinking/)
+- <img src="assets/dravee.png" height="20"> [The Three Prompts of Spec Thinking: Yet Another Lens for Smart Contract Auditing](https://justdravee.github.io/posts/the-3-prompts-of-spec-thinking/)
   Framework for writing properties and invariants through three guiding questions
   <sub>Dravee, Apr 2025</sub>
 
