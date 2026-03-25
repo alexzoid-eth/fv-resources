@@ -40,8 +40,9 @@ Please DM me if you'd like to update it.
 ### Articles
 
 - [Learning CVL Language](https://rasengansec.hashnode.dev/learning-certora-prover-part-1) ([Part 2](https://rasengansec.hashnode.dev/learning-certora-prover-part-2), [Part 3](https://rasengansec.hashnode.dev/learning-cvl-language-part-3), [Part 4](https://rasengansec.hashnode.dev/learning-cvl-language-part-4)) — Certora: Lilian Cariou, Mar-Apr 2025
-- ![certora][certora] [Certora Technology White Paper](https://www.certora.com/blog/white-paper) — Chandrakana Nandi, Mooly Sagiv & Daniel Jackson, Feb 2025
+- ![certora][certora] [Certora Technology White Paper](https://www.certora.com/blog/white-paper)
   Overview of Certora's verification technology — how the Prover works, what it can and cannot verify, and the role of SMT solvers and abstract interpretation
+  <sub>Chandrakana Nandi, Mooly Sagiv & Daniel Jackson, Feb 2025</sub>
 
 ### Videos
 
