@@ -5,26 +5,44 @@ Please DM me if you'd like to update it.
 
 ## Table of Contents
 
-- [EVM](#-evm)
-  - [Documentation](#documentation)
+- [General](#-general)
   - [Articles](#articles)
   - [Videos](#videos)
+- [EVM](#-evm)
+  - [Documentation](#documentation)
+  - [Articles](#articles-1)
   - [Tools](#tools)
 - [Stellar](#-stellar)
   - [Documentation](#documentation-1)
-  - [Articles](#articles-1)
-  - [Videos](#videos-1)
+  - [Articles](#articles-2)
+  - [Videos](#videos-2)
   - [Specifications](#specifications)
   - [Reports](#reports)
   - [Libraries](#libraries)
 - [Solana](#-solana)
   - [Documentation](#documentation-2)
-  - [Articles](#articles-2)
-  - [Videos](#videos-2)
+  - [Articles](#articles-3)
+  - [Videos](#videos-3)
   - [Specifications](#specifications-1)
   - [Reports](#reports-1)
   - [Libraries](#libraries-1)
   - [Tools](#tools-1)
+
+---
+
+## ◆ General
+
+### Articles
+
+- ![certora][certora] [Certora Technology White Paper](https://www.certora.com/blog/white-paper)
+  How the Prover works, its capabilities and limitations
+  <sub>Chandrakana Nandi, Mooly Sagiv & Daniel Jackson, Feb 2025</sub>
+
+### Videos
+
+- ![yt][yt] [Why Formal Verification Matters: Fireside Chat with Certora CEO Mooly Sagiv](https://www.youtube.com/watch?v=2tARWL61wCo)
+  FV role in smart contract security, Certora vision
+  <sub>RareTalks, May 2025</sub>
 
 ---
 
@@ -45,16 +63,6 @@ Please DM me if you'd like to update it.
 - [Learning CVL Language](https://rasengansec.hashnode.dev/learning-certora-prover-part-1) ([Part 2](https://rasengansec.hashnode.dev/learning-certora-prover-part-2), [Part 3](https://rasengansec.hashnode.dev/learning-cvl-language-part-3), [Part 4](https://rasengansec.hashnode.dev/learning-cvl-language-part-4))
   Hands-on walkthrough: CVL syntax, rules, invariants, hooks
   <sub>Certora: Lilian Cariou, Mar-Apr 2025</sub>
-
-- ![certora][certora] [Certora Technology White Paper](https://www.certora.com/blog/white-paper)
-  How the Prover works, its capabilities and limitations
-  <sub>Chandrakana Nandi, Mooly Sagiv & Daniel Jackson, Feb 2025</sub>
-
-### Videos
-
-- ![yt][yt] [Why Formal Verification Matters: Fireside Chat with Certora CEO Mooly Sagiv](https://www.youtube.com/watch?v=2tARWL61wCo)
-  FV role in smart contract security, Certora vision
-  <sub>RareTalks, May 2025</sub>
 
 ### Tools
 
