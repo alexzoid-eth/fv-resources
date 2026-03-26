@@ -603,12 +603,11 @@ A curated list of resources for Formal Verification with Certora Prover. Please 
   Comparative analysis using Certora and Move Prover; open dataset
   <sub>Enrico Lipparini et al., Feb 2025</sub>
 
+### Works
+
 - ![gh][gh] [Formal Verification SUI — Practical Guide](https://github.com/0zKillua/Formal-verification-SUI)
   Vault, AMM specs and DeFi verification patterns with Certora Prover on Sui
   <sub>0zKillua, Mar 2026</sub>
-
-### Works
-
 
 
 ### Libs & Tools
