@@ -23,10 +23,6 @@ A curated list of resources for Formal Verification with Certora Prover. Please 
   How the Prover works, its capabilities and limitations
   <sub>Chandrakana Nandi, Mooly Sagiv & Daniel Jackson, Feb 2025</sub>
 
-- <img src="assets/arxiv.png" height="20"> [Formal Verification in Solidity and Move: Comparative Analysis](https://arxiv.org/abs/2502.13929)
-  Comparative analysis using Certora and Move Prover; open dataset
-  <sub>Enrico Lipparini et al., Feb 2025</sub>
-
 - <img src="assets/arxiv.png" height="20"> [PropertyGPT: LLM-driven Formal Verification of Smart Contracts](https://arxiv.org/abs/2405.02580)
   Uses 61 Certora audit reports as knowledge base for automated property generation
   <sub>May 2024</sub>
@@ -602,6 +598,24 @@ A curated list of resources for Formal Verification with Certora Prover. Please 
 
 - <img src="assets/certora.png" height="20"> [Official documentation for Certora Move Prover](https://docs.certora.com/en/latest/docs/move/index.html)
   Setup, Move specification language, Sui smart contract verification
+
+- <img src="assets/arxiv.png" height="20"> [Formal Verification in Solidity and Move: Comparative Analysis](https://arxiv.org/abs/2502.13929)
+  Comparative analysis using Certora and Move Prover; open dataset
+  <sub>Enrico Lipparini et al., Feb 2025</sub>
+
+- ![gh][gh] [Formal Verification SUI — Practical Guide](https://github.com/0zKillua/Formal-verification-SUI)
+  Vault, AMM specs and DeFi verification patterns with Certora Prover on Sui
+  <sub>0zKillua, Mar 2026</sub>
+
+### Works
+
+
+
+### Libs & Tools
+
+- ![gh][gh] [CVLM — Move verification framework](https://github.com/Certora/cvl-move-proto)
+  CVLM library and Sui summaries for writing Move formal specs
+  <sub>Certora, Nov 2025</sub>
 
 <!-- Badge references -->
 [gh]: https://img.shields.io/badge/%20-181717?style=flat-square&logo=github&logoColor=white
