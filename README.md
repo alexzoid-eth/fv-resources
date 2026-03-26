@@ -1,6 +1,6 @@
 # Certora Formal Verification Resources
 
-A curated list of resources for Formal Verification with Certora Prover. Please DM me if you'd like to update it.
+A curated list of resources for Formal Verification with Certora Prover. Please create a PR if you'd like to update it.
 
 [General ↓](#general) · [EVM ↓](#evm) · [Stellar ↓](#stellar) · [Solana ↓](#solana) · [Sui ↓](#sui)
 
