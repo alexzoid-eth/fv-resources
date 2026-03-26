@@ -45,6 +45,10 @@ A curated list of resources for Formal Verification with Certora Prover. Please 
   FV role in smart contract security, Certora vision
   <sub>RareTalks, May 2025</sub>
 
+- ![yt][yt] [Dravee: Mindsets of Auditing](https://www.youtube.com/watch?v=kORcOhftwVw)
+  Auditing mindsets and approaches to smart contract security
+  <sub>OpenSense, Jun 2023</sub>
+
 - ![yt][yt] [What is Certora and Formal Verification — Simply Explained](https://www.youtube.com/watch?v=8ON0Vpo7zls)
   Beginner-friendly introduction to Certora and FV
   <sub>JohnnyTime, Aug 2023</sub>
