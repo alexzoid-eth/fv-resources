@@ -2,7 +2,7 @@
 
 A curated list of resources for Formal Verification with Certora Prover. Please DM me if you'd like to update it.
 
-[General ↓](#general) · [EVM ↓](#evm) · [Stellar ↓](#stellar) · [Solana ↓](#solana)
+[General ↓](#general) · [EVM ↓](#evm) · [Stellar ↓](#stellar) · [Solana ↓](#solana) · [Sui ↓](#sui)
 
 <img src="https://www.certora.com/gradientlogo.png" height="50" alt="Certora">
 
@@ -72,6 +72,10 @@ A curated list of resources for Formal Verification with Certora Prover. Please 
 - ![gh][gh] [CVLR — Rust verification primitives](https://github.com/Certora/cvlr)
   Rust libraries for writing formal specs of Solana and Soroban contracts
   <sub>Certora, Mar 2026</sub>
+
+- ![gh][gh] [CVLR Collections](https://github.com/Certora/cvlr-collections)
+  Vectors and other collections mocks, fakes, and summaries for CVLR
+  <sub>Certora, Apr 2025</sub>
 
 - ![gh][gh] [GitHub Action for running Certora Prover](https://github.com/Certora/certora-run-action)
   CI/CD integration for automated Prover runs
@@ -586,6 +590,18 @@ A curated list of resources for Formal Verification with Certora Prover. Please 
 - ![gh][gh] [Certora Solana Platform Tools](https://github.com/Certora/certora-solana-platform-tools)
   Solana build toolchain for verification
   <sub>Certora, Mar 2026</sub>
+
+---
+
+<img src="https://github.com/MystenLabs/sui/raw/main/docs/site/static/img/logo.svg" height="50" alt="Sui">
+
+### Sui
+`updated: March 2026`
+
+### Docs
+
+- <img src="assets/certora.png" height="20"> [Official documentation for Certora Move Prover](https://docs.certora.com/en/latest/docs/move/index.html)
+  Setup, Move specification language, Sui smart contract verification
 
 <!-- Badge references -->
 [gh]: https://img.shields.io/badge/%20-181717?style=flat-square&logo=github&logoColor=white
