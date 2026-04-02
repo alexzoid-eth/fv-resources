@@ -596,7 +596,7 @@ A curated list of resources for Formal Verification with Certora Prover. Please 
 <img src="https://github.com/MystenLabs/sui/raw/main/docs/site/static/img/logo.svg" height="50" alt="Sui">
 
 ### Sui
-`updated: March 2026`
+`updated: April 2026`
 
 ### Docs
 
@@ -609,6 +609,12 @@ A curated list of resources for Formal Verification with Certora Prover. Please 
 
 ### Works
 
+- ![pdf][pdf] [Suilend](https://github.com/Certora/SecurityReports/blob/main/Reports/2026/03_24_2026_Suilend-FV-MR.pdf)
+  Lending protocol FV report
+  <sub>Certora, Mar 2026</sub>
+- ![pdf][pdf] [Suilend Liquid Staking](https://github.com/Certora/SecurityReports/blob/main/Reports/2026/03_24_2026_Suilend_Liquid_Staking-FV-MR.pdf)
+  Liquid staking protocol FV report
+  <sub>Certora, Mar 2026</sub>
 - ![gh][gh] [Formal Verification SUI — Practical Guide](https://github.com/0zKillua/Formal-verification-SUI)
   Vault, AMM specs and DeFi verification patterns with Certora Prover on Sui
   <sub>0zKillua, Mar 2026</sub>
