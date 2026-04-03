@@ -392,6 +392,10 @@ A curated list of resources for Formal Verification with Certora Prover. Please 
   Mutation testing to evaluate quality of test suites and FV specs
   <sub>Certora, May 2025</sub>
 
+- ![gh][gh] [WALA Solidity](https://github.com/Certora/wala-solidity)
+  WALA-based static analysis for Solidity with RoundAbout rounding direction inference
+  <sub>Certora, Mar 2026</sub>
+
 - ![gh][gh] [CertoraInit](https://github.com/Certora/CertoraInit)
   Boilerplate for new EVM FV projects
   <sub>Certora, Feb 2025</sub>
