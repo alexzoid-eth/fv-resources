@@ -39,6 +39,10 @@ A curated list of resources for Formal Verification with Certora Prover. Please 
   Common misconceptions about FV debunked
   <sub>Mooly Sagiv, Dec 2022</sub>
 
+- <img src="assets/ocamlpro.svg" height="20"> [Verification For Dummies: SMT and Induction](https://ocamlpro.github.io/verification_for_dummies/index.html)
+  Fundamentals of SMT solvers, transition systems, BMC, induction and candidate strengthening
+  <sub>OCamlPro: Adrien Champion</sub>
+
 ### Videos
 
 - ![yt][yt] [Why Formal Verification Matters: Fireside Chat with Certora CEO Mooly Sagiv](https://www.youtube.com/watch?v=2tARWL61wCo)
