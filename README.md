@@ -7,7 +7,7 @@ A curated list of resources for Formal Verification with Certora Prover. Please 
 <img src="https://www.certora.com/gradientlogo.png" height="50" alt="Certora">
 
 ### General
-`updated: March 2026`
+`updated: April 2026`
 
 ### Docs
 
